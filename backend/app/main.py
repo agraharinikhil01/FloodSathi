@@ -25,6 +25,10 @@ app = FastAPI(
 def startup_checks():
     import logging
 
+    from backend.app.db import ensure_db_initialized
+
+    ensure_db_initialized()
+
     log = logging.getLogger("uvicorn.info")
     geo_key = settings.GEOAPIFY_API_KEY
     geo_status = (

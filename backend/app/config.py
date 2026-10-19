@@ -1,9 +1,23 @@
 """Application configuration loaded from environment variables."""
 
+import os
 from functools import lru_cache
 from typing import List
 
 from pydantic_settings import BaseSettings, SettingsConfigDict
+
+
+def _get_default_database_url() -> str:
+    """Return appropriate database URL, using writable /tmp in serverless runtimes."""
+    if os.getenv("DATABASE_URL"):
+        return os.environ["DATABASE_URL"]
+    if (
+        os.getenv("VERCEL")
+        or os.getenv("AWS_LAMBDA_FUNCTION_NAME")
+        or os.getenv("LAMBDA_TASK_ROOT")
+    ):
+        return "sqlite:////tmp/floodsaathi.db"
+    return "sqlite:///./floodsaathi.db"
 
 
 class Settings(BaseSettings):
@@ -16,7 +30,7 @@ class Settings(BaseSettings):
     DEBUG: bool = False
 
     # Database
-    DATABASE_URL: str = "sqlite:///./floodsaathi.db"
+    DATABASE_URL: str = _get_default_database_url()
     CACHE_DIR: str = "data/cache"
 
     # Security & Auth
