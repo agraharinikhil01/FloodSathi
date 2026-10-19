@@ -1,8 +1,11 @@
 """FastAPI main application entry point for FloodSaathi."""
 
+from pathlib import Path
+
 from fastapi import FastAPI, Request
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
+from fastapi.staticfiles import StaticFiles
 
 from backend.app.config import get_settings
 from backend.app.routers import alerts, geocode, health, matching, risk, triage
@@ -74,9 +77,9 @@ app.include_router(alerts.router, prefix=settings.API_V1_STR)
 app.include_router(geocode.router, prefix=settings.API_V1_STR)
 
 
-@app.get("/")
-def root():
-    """Root entry point with service metadata."""
+@app.get("/api")
+def api_root():
+    """API metadata endpoint."""
     return {
         "app": settings.PROJECT_NAME,
         "version": settings.VERSION,
@@ -84,3 +87,14 @@ def root():
         "api_v1": settings.API_V1_STR,
         "disclaimer": "Decision-support tool. Follow official IMD / NDMA warnings.",
     }
+
+
+frontend_dist = Path(__file__).resolve().parent.parent.parent / "frontend" / "dist"
+if frontend_dist.exists() and (frontend_dist / "index.html").exists():
+    app.mount("/", StaticFiles(directory=str(frontend_dist), html=True), name="static")
+else:
+
+    @app.get("/")
+    def root():
+        """Root entry point with service metadata."""
+        return api_root()

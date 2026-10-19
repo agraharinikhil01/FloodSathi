@@ -22,3 +22,7 @@ addopts = "-v --tb=short -m 'not live'"
 markers = [
     "live: marks live network integration tests (run with 'pytest -m live')",
 ]
+
+[tool.vercel]
+entrypoint = "backend.app.main:app"
+
