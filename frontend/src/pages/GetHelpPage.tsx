@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useRef, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { useMutation } from '@tanstack/react-query'
 import {
@@ -45,6 +45,7 @@ export const GetHelpPage: React.FC = () => {
   const [isResultVerifying, setIsResultVerifying] = useState(false)
   const [isUpdatingLocation, setIsUpdatingLocation] = useState(false)
   const [pinnedLocation, setPinnedLocation] = useState<SelectedLocationResult | null>(null)
+  const resultRef = useRef<HTMLDivElement>(null)
 
   const quickSamples = [
     {
@@ -81,6 +82,9 @@ export const GetHelpPage: React.FC = () => {
     },
     onSuccess: (data) => {
       setResult(data)
+      setTimeout(() => {
+        resultRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' })
+      }, 100)
     },
   })
 
@@ -264,6 +268,17 @@ export const GetHelpPage: React.FC = () => {
               </>
             )}
           </button>
+
+          {triageMutation.isError && (
+            <div className="p-3.5 rounded-2xl bg-rose-50 dark:bg-rose-950/40 border border-rose-500/30 flex items-center space-x-2 text-rose-800 dark:text-rose-300 text-xs">
+              <AlertTriangle className="w-4 h-4 shrink-0 text-rose-600 dark:text-rose-400" />
+              <span>
+                {isHi
+                  ? 'अनुरोध भेजने में समस्या हुई। कृपया पुनः प्रयास करें।'
+                  : 'Failed to process request. Please try again.'}
+              </span>
+            </div>
+          )}
         </form>
       </div>
 
@@ -341,7 +356,7 @@ export const GetHelpPage: React.FC = () => {
 
       {/* Triage Extraction Result Modal / Card */}
       {result && (
-        <div className="bg-white dark:bg-darkCard p-6 rounded-3xl border border-gray-200 dark:border-gray-800 shadow-lg space-y-5 animate-in fade-in slide-in-from-bottom-4 duration-300">
+        <div ref={resultRef} className="bg-white dark:bg-darkCard p-6 rounded-3xl border border-gray-200 dark:border-gray-800 shadow-lg space-y-5 animate-in fade-in slide-in-from-bottom-4 duration-300">
           <div className="flex items-center justify-between border-b border-gray-100 dark:border-gray-800 pb-4">
             <div className="flex items-center space-x-2.5">
               <div className="p-2 rounded-xl bg-emerald-500/10 text-emerald-500">
