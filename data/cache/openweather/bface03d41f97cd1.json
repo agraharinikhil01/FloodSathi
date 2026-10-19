@@ -1,0 +1,48 @@
+{
+  "timestamp": 1792424715.4629877,
+  "fetched_at": "2026-10-19T15:45:15.462991+00:00",
+  "payload": {
+    "coord": {
+      "lon": 85.1,
+      "lat": 25.6
+    },
+    "weather": [
+      {
+        "id": 800,
+        "main": "Clear",
+        "description": "clear sky",
+        "icon": "01n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 24.61,
+      "feels_like": 24.8,
+      "temp_min": 24.61,
+      "temp_max": 24.61,
+      "pressure": 1014,
+      "humidity": 64,
+      "sea_level": 1014,
+      "grnd_level": 1008
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 2.11,
+      "deg": 259,
+      "gust": 2.24
+    },
+    "clouds": {
+      "all": 3
+    },
+    "dt": 1792424715,
+    "sys": {
+      "country": "IN",
+      "sunrise": 1792369190,
+      "sunset": 1792410547
+    },
+    "timezone": 19800,
+    "id": 1260086,
+    "name": "Patna",
+    "cod": 200
+  }
+}

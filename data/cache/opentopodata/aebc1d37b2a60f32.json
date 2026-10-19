@@ -1,0 +1,17 @@
+{
+  "timestamp": 1792417316.2849498,
+  "fetched_at": "2026-10-19T13:41:56.284952+00:00",
+  "payload": {
+    "results": [
+      {
+        "dataset": "srtm90m",
+        "elevation": 81.0,
+        "location": {
+          "lat": 25.3176,
+          "lng": 82.9739
+        }
+      }
+    ],
+    "status": "OK"
+  }
+}

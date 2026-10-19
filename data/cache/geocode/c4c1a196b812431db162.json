@@ -1,0 +1,20 @@
+{
+  "timestamp": 1792423643.0503876,
+  "results": [
+    {
+      "name": "Laharighat",
+      "display_name": "Laharighat - 782127, AS, India",
+      "lat": 26.4190111,
+      "lon": 92.3416943,
+      "type": "city",
+      "bbox": {
+        "lon1": 92.3216943,
+        "lat1": 26.3990111,
+        "lon2": 92.3616943,
+        "lat2": 26.4390111
+      },
+      "source": "geoapify",
+      "confidence": "low"
+    }
+  ]
+}

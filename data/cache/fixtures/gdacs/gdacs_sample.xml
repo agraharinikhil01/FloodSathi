@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:gdacs="http://www.gdacs.org">
+  <channel>
+    <title>GDACS Floods RSS Feed</title>
+    <link>https://www.gdacs.org</link>
+    <description>Global Disaster Alert and Coordination System - Flood Events</description>
+    <item>
+      <title>Green Flood Alert in India (Brahmaputra Basin)</title>
+      <description>Riverine flood event reported across upper Assam and Brahmaputra river system affecting rural infrastructure.</description>
+      <link>https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1004521</link>
+      <pubDate>Mon, 19 Oct 2026 05:00:00 GMT</pubDate>
+      <gdacs:eventtype>FL</gdacs:eventtype>
+      <gdacs:alertlevel>Green</gdacs:alertlevel>
+      <gdacs:country>India</gdacs:country>
+      <geo:lat>26.25</geo:lat>
+      <geo:long>92.34</geo:long>
+    </item>
+  </channel>
+</rss>

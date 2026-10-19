@@ -1,0 +1,15 @@
+streamlit>=1.35.0
+folium>=0.16.0
+streamlit-folium>=0.20.0
+pandas>=2.2.0
+requests>=2.32.0
+scikit-learn>=1.5.0
+anthropic>=0.29.0
+pydantic>=2.7.0
+python-dotenv>=1.0.0
+pytest>=8.2.0
+pytest-benchmark>=4.0.0
+ruff>=0.4.0
+black>=24.4.0
+bcrypt>=4.1.0
+plotly>=5.22.0

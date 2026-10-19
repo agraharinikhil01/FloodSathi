@@ -1,0 +1,133 @@
+{
+  "timestamp": 1792419983.759374,
+  "fetched_at": "2026-10-19T14:26:23.759376+00:00",
+  "payload": [
+    {
+      "place_id": 249596048,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 3223545505,
+      "lat": "19.7592439",
+      "lon": "74.7048644",
+      "class": "place",
+      "type": "village",
+      "place_rank": 19,
+      "importance": 0.14670416800183103,
+      "addresstype": "village",
+      "name": "Naur",
+      "display_name": "Naur, Shrirampur, Ahilyanagar District, Maharashtra, 413707, India",
+      "address": {
+        "village": "Naur",
+        "county": "Shrirampur",
+        "state_district": "Ahilyanagar District",
+        "state": "Maharashtra",
+        "ISO3166-2-lvl4": "IN-MH",
+        "postcode": "413707",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "19.7392439",
+        "19.7792439",
+        "74.6848644",
+        "74.7248644"
+      ]
+    },
+    {
+      "place_id": 245127495,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 7862020121,
+      "lat": "30.2529878",
+      "lon": "78.3566379",
+      "class": "place",
+      "type": "hamlet",
+      "place_rank": 20,
+      "importance": 0.13337083466849772,
+      "addresstype": "hamlet",
+      "name": "Naur",
+      "display_name": "Naur, Chiriyali, Narendra Nagar, Tehri Garhwal, Uttarakhand, India",
+      "address": {
+        "hamlet": "Naur",
+        "village": "Chiriyali",
+        "county": "Narendra Nagar",
+        "state_district": "Tehri Garhwal",
+        "state": "Uttarakhand",
+        "ISO3166-2-lvl4": "IN-UK",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "30.2329878",
+        "30.2729878",
+        "78.3366379",
+        "78.3766379"
+      ]
+    },
+    {
+      "place_id": 244902129,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 7935204774,
+      "lat": "31.5433301",
+      "lon": "77.1160197",
+      "class": "place",
+      "type": "hamlet",
+      "place_rank": 20,
+      "importance": 0.13337083466849772,
+      "addresstype": "hamlet",
+      "name": "Naur",
+      "display_name": "Naur, Baksaid, Thunag, Mandi, Himachal Pradesh, 175039, India",
+      "address": {
+        "hamlet": "Naur",
+        "village": "Baksaid",
+        "county": "Thunag",
+        "state_district": "Mandi",
+        "state": "Himachal Pradesh",
+        "ISO3166-2-lvl4": "IN-HP",
+        "postcode": "175039",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "31.5233301",
+        "31.5633301",
+        "77.0960197",
+        "77.1360197"
+      ]
+    },
+    {
+      "place_id": 244455817,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 8005506119,
+      "lat": "31.5031262",
+      "lon": "77.2193491",
+      "class": "place",
+      "type": "isolated_dwelling",
+      "place_rank": 22,
+      "importance": 0.10670416800183105,
+      "addresstype": "isolated_dwelling",
+      "name": "naur",
+      "display_name": "naur, mataut, Tir, Thunag, Mandi, Himachal Pradesh, 175047, India",
+      "address": {
+        "isolated_dwelling": "naur",
+        "hamlet": "mataut",
+        "village": "Tir",
+        "county": "Thunag",
+        "state_district": "Mandi",
+        "state": "Himachal Pradesh",
+        "ISO3166-2-lvl4": "IN-HP",
+        "postcode": "175047",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "31.5030762",
+        "31.5031762",
+        "77.2192991",
+        "77.2193991"
+      ]
+    }
+  ]
+}

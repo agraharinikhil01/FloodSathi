@@ -1,0 +1,63 @@
+{
+  "timestamp": 1792423852.8091471,
+  "fetched_at": "2026-10-19T15:30:52.809149+00:00",
+  "payload": [
+    {
+      "place_id": 243449357,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 1959873,
+      "lat": "26.0390905",
+      "lon": "83.4985846",
+      "class": "boundary",
+      "type": "administrative",
+      "place_rank": 10,
+      "importance": 0.5776433006994944,
+      "addresstype": "state_district",
+      "name": "Mau",
+      "display_name": "Mau, Uttar Pradesh, India",
+      "address": {
+        "state_district": "Mau",
+        "state": "Uttar Pradesh",
+        "ISO3166-2-lvl4": "IN-UP",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "25.7972433",
+        "26.2807716",
+        "83.2954938",
+        "83.8108323"
+      ]
+    },
+    {
+      "place_id": 242977097,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 10023046,
+      "lat": "25.2356031",
+      "lon": "81.3334022",
+      "class": "boundary",
+      "type": "administrative",
+      "place_rank": 12,
+      "importance": 0.24000999999999997,
+      "addresstype": "county",
+      "name": "Mau",
+      "display_name": "Mau, Chitrakoot, Uttar Pradesh, India",
+      "address": {
+        "county": "Mau",
+        "state_district": "Chitrakoot",
+        "state": "Uttar Pradesh",
+        "ISO3166-2-lvl4": "IN-UP",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "25.0723237",
+        "25.3989310",
+        "81.1135625",
+        "81.5621995"
+      ]
+    }
+  ]
+}

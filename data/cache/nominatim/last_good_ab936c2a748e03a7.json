@@ -1,0 +1,165 @@
+{
+  "timestamp": 1792419986.760875,
+  "fetched_at": "2026-10-19T14:26:26.760877+00:00",
+  "payload": [
+    {
+      "place_id": 242903097,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 6869960101,
+      "lat": "30.9188800",
+      "lon": "74.5686286",
+      "class": "place",
+      "type": "village",
+      "place_rank": 19,
+      "importance": 0.14671273594262604,
+      "addresstype": "village",
+      "name": "Naurang Ke Leli",
+      "display_name": "Naurang Ke Leli, Firozpur Tahsil, Firozpur, Punjab, 152001, India",
+      "address": {
+        "village": "Naurang Ke Leli",
+        "county": "Firozpur Tahsil",
+        "state_district": "Firozpur",
+        "state": "Punjab",
+        "ISO3166-2-lvl4": "IN-PB",
+        "postcode": "152001",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "30.8988800",
+        "30.9388800",
+        "74.5486286",
+        "74.5886286"
+      ]
+    },
+    {
+      "place_id": 243240337,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 6959334536,
+      "lat": "31.0103774",
+      "lon": "74.9115549",
+      "class": "place",
+      "type": "village",
+      "place_rank": 19,
+      "importance": 0.14670416800183103,
+      "addresstype": "village",
+      "name": "Naurang Singh Wala",
+      "display_name": "Naurang Singh Wala, Zira Tahsil, Firozpur, Punjab, India",
+      "address": {
+        "village": "Naurang Singh Wala",
+        "county": "Zira Tahsil",
+        "state_district": "Firozpur",
+        "state": "Punjab",
+        "ISO3166-2-lvl4": "IN-PB",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "30.9903774",
+        "31.0303774",
+        "74.8915549",
+        "74.9315549"
+      ]
+    },
+    {
+      "place_id": 244475355,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1290371744,
+      "lat": "28.6277502",
+      "lon": "77.2218634",
+      "class": "landuse",
+      "type": "commercial",
+      "place_rank": 24,
+      "importance": 0.08007748149843592,
+      "addresstype": "commercial",
+      "name": "Naurang House",
+      "display_name": "Naurang House, Connaught Place, New Delhi, Delhi, India",
+      "address": {
+        "commercial": "Naurang House",
+        "suburb": "Connaught Place",
+        "city": "New Delhi",
+        "state_district": "New Delhi",
+        "state": "Delhi",
+        "ISO3166-2-lvl4": "IN-DL",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "28.6273814",
+        "28.6281106",
+        "77.2213828",
+        "77.2223453"
+      ]
+    },
+    {
+      "place_id": 244720713,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 7489609860,
+      "lat": "27.8801155",
+      "lon": "78.0766801",
+      "class": "amenity",
+      "type": "hospital",
+      "place_rank": 30,
+      "importance": 5.441596093685843e-05,
+      "addresstype": "amenity",
+      "name": "Naurang Hospital",
+      "display_name": "Naurang Hospital, MDR105W, Aligarh, Koil, Aligarh, Uttar Pradesh, 202001, India",
+      "address": {
+        "amenity": "Naurang Hospital",
+        "road": "MDR105W",
+        "city": "Aligarh",
+        "county": "Koil",
+        "state_district": "Aligarh",
+        "state": "Uttar Pradesh",
+        "ISO3166-2-lvl4": "IN-UP",
+        "postcode": "202001",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "27.8800655",
+        "27.8801655",
+        "78.0766301",
+        "78.0767301"
+      ]
+    },
+    {
+      "place_id": 247400028,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 13288766775,
+      "lat": "29.9304932",
+      "lon": "74.9242129",
+      "class": "highway",
+      "type": "bus_stop",
+      "place_rank": 30,
+      "importance": 3.750133516437045e-05,
+      "addresstype": "highway",
+      "name": "Bus stand, Naurang",
+      "display_name": "Bus stand, Naurang, GGS Refinery Road, Guru Gobind Singh Refinery, Ramsara, Talwandi Sabo Tahsil, Bathinda, Punjab, 151301, India",
+      "address": {
+        "highway": "Bus stand, Naurang",
+        "road": "GGS Refinery Road",
+        "industrial": "Guru Gobind Singh Refinery",
+        "village": "Ramsara",
+        "county": "Talwandi Sabo Tahsil",
+        "state_district": "Bathinda",
+        "state": "Punjab",
+        "ISO3166-2-lvl4": "IN-PB",
+        "postcode": "151301",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "29.9304432",
+        "29.9305432",
+        "74.9241629",
+        "74.9242629"
+      ]
+    }
+  ]
+}

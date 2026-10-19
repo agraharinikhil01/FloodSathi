@@ -1,0 +1,38 @@
+[
+  {
+    "district_id": 101,
+    "district_name": "Morigaon",
+    "state_name": "Assam",
+    "day_1_code": "4",
+    "day_1_weather_code": "3",
+    "day_2_code": "3",
+    "day_2_weather_code": "2",
+    "day_3_code": "2",
+    "day_3_weather_code": "1",
+    "warning_text": "Extremely heavy rainfall and severe waterlogging predicted in Morigaon"
+  },
+  {
+    "district_id": 102,
+    "district_name": "Dhubri",
+    "state_name": "Assam",
+    "day_1_code": "3",
+    "day_1_weather_code": "2",
+    "day_2_code": "2",
+    "day_2_weather_code": "1",
+    "day_3_code": "1",
+    "day_3_weather_code": "0",
+    "warning_text": "Heavy to very heavy rainfall expected in Dhubri district"
+  },
+  {
+    "district_id": 201,
+    "district_name": "Darbhanga",
+    "state_name": "Bihar",
+    "day_1_code": "4",
+    "day_1_weather_code": "6",
+    "day_2_code": "3",
+    "day_2_weather_code": "2",
+    "day_3_code": "2",
+    "day_3_weather_code": "1",
+    "warning_text": "Severe flood alert and inundation across river Kamla and Bagmati basins in Darbhanga"
+  }
+]

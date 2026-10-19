@@ -1,0 +1,47 @@
+{
+  "timestamp": 1792423867.2902741,
+  "fetched_at": "2026-10-19T15:31:07.290276+00:00",
+  "payload": {
+    "latitude": 26.025002,
+    "longitude": 83.42502,
+    "generationtime_ms": 2.437591552734375,
+    "utc_offset_seconds": 0,
+    "timezone": "GMT",
+    "timezone_abbreviation": "GMT",
+    "elevation": 71.0,
+    "daily_units": {
+      "time": "iso8601",
+      "river_discharge": "m\u00b3/s",
+      "river_discharge_max": "m\u00b3/s"
+    },
+    "daily": {
+      "time": [
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-24",
+        "2026-10-25"
+      ],
+      "river_discharge": [
+        105.66,
+        97.63,
+        90.2,
+        83.14,
+        76.62,
+        70.29,
+        64.46
+      ],
+      "river_discharge_max": [
+        105.66,
+        97.63,
+        90.2,
+        83.14,
+        76.62,
+        70.29,
+        64.46
+      ]
+    }
+  }
+}

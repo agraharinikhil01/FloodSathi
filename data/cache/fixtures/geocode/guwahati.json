@@ -1,0 +1,19 @@
+{
+  "results": [
+    {
+      "name": "Guwahati",
+      "display_name": "Guwahati, Kamrup Metropolitan, Assam, India",
+      "lat": 26.1445,
+      "lon": 91.7362,
+      "type": "city",
+      "bbox": {
+        "lon1": 91.6,
+        "lat1": 26.05,
+        "lon2": 91.85,
+        "lat2": 26.25
+      },
+      "source": "geoapify",
+      "confidence": "medium"
+    }
+  ]
+}

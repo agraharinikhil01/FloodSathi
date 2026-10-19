@@ -1,0 +1,19 @@
+{
+  "results": [
+    {
+      "name": "Katai",
+      "display_name": "Katai, Singrauli, Madhya Pradesh, India",
+      "lat": 24.1363,
+      "lon": 81.899,
+      "type": "village",
+      "bbox": {
+        "lon1": 81.88,
+        "lat1": 24.12,
+        "lon2": 81.91,
+        "lat2": 24.15
+      },
+      "source": "geoapify",
+      "confidence": "medium"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "results": [
+    {
+      "name": "Patna",
+      "display_name": "Patna, Bihar, India",
+      "lat": 25.6093,
+      "lon": 85.1235,
+      "type": "city",
+      "bbox": {
+        "lon1": 85.01,
+        "lat1": 25.53,
+        "lon2": 85.26,
+        "lat2": 25.65
+      },
+      "source": "geoapify",
+      "confidence": "medium"
+    }
+  ]
+}

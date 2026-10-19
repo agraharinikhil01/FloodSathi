@@ -1,0 +1,20 @@
+{
+  "timestamp": 1792422519.864499,
+  "results": [
+    {
+      "name": "Mount Carmel High School",
+      "display_name": "Mount Carmel High School, Bailey Road, Patna - 803210, BR, India",
+      "lat": 25.6103507,
+      "lon": 85.1233646,
+      "type": "amenity",
+      "bbox": {
+        "lon1": 85.1233146,
+        "lat1": 25.6103007,
+        "lon2": 85.1234146,
+        "lat2": 25.6104007
+      },
+      "source": "geoapify",
+      "confidence": "high"
+    }
+  ]
+}

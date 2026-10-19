@@ -1,0 +1,27 @@
+{
+  "timestamp": 1792390357.8880029,
+  "fetched_at": "2026-10-19T06:12:37.888004+00:00",
+  "payload": [
+    {
+      "place_id": 242101349,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 566672797,
+      "lat": "26.1409355",
+      "lon": "91.7910265",
+      "class": "place",
+      "type": "town",
+      "place_rank": 18,
+      "importance": 0.46062809656868353,
+      "addresstype": "town",
+      "name": "Dispur",
+      "display_name": "Dispur, Kamrup Metropolitan, Assam, 781005, India",
+      "boundingbox": [
+        "26.1009355",
+        "26.1809355",
+        "91.7510265",
+        "91.8310265"
+      ]
+    }
+  ]
+}

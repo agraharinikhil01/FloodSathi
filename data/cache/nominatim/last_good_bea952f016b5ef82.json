@@ -1,0 +1,36 @@
+{
+  "timestamp": 1792420004.8344188,
+  "fetched_at": "2026-10-19T14:26:44.834420+00:00",
+  "payload": [
+    {
+      "place_id": 246410150,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 7340200245,
+      "lat": "26.9905040",
+      "lon": "73.9058232",
+      "class": "place",
+      "type": "village",
+      "place_rank": 19,
+      "importance": 0.14670606927595936,
+      "addresstype": "village",
+      "name": "Basni Khaleel",
+      "display_name": "Basni Khaleel, Mundwa Tehsil, Nagaur, Rajasthan, India",
+      "address": {
+        "village": "Basni Khaleel",
+        "county": "Mundwa Tehsil",
+        "state_district": "Nagaur",
+        "state": "Rajasthan",
+        "ISO3166-2-lvl4": "IN-RJ",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "26.9705040",
+        "27.0105040",
+        "73.8858232",
+        "73.9258232"
+      ]
+    }
+  ]
+}

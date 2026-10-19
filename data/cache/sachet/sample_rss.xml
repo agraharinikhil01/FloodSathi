@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>SACHET NDMA Disaster Alerts - Assam</title>
+    <link>https://sachet.ndma.gov.in</link>
+    <description>Public Alert Feeds for Floods and Weather Emergencies</description>
+    <language>en-IN</language>
+    <pubDate>Mon, 19 Oct 2026 06:15:00 +0530</pubDate>
+    <item>
+      <title>Severe Flood Warning for Morigaon District</title>
+      <link>data/cache/sachet/cap_alert_morigaon_flood.xml</link>
+      <guid isPermaLink="false">SACHET-AS-2026-FL-0042</guid>
+      <pubDate>Mon, 19 Oct 2026 06:00:00 +0530</pubDate>
+      <description>Severe riverine flood warning issued by Assam State Disaster Management Authority.</description>
+    </item>
+    <item>
+      <title>Heavy Rain and River Rise in Dhubri</title>
+      <link>data/cache/sachet/cap_alert_dhubri_update.xml</link>
+      <guid isPermaLink="false">SACHET-AS-2026-FL-0043</guid>
+      <pubDate>Mon, 19 Oct 2026 06:10:00 +0530</pubDate>
+      <description>Updated alert on heavy rainfall and rising Brahmaputra levels in Dhubri.</description>
+    </item>
+  </channel>
+</rss>

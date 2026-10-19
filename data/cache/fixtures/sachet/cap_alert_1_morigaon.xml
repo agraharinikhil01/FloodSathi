@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alert xmlns="urn:oasis:names:tc:emergency:cap:1.2">
+  <identifier>SACHET-AS-2026-FL-0001</identifier>
+  <sender>ndma.gov.in</sender>
+  <sent>2026-10-19T06:00:00+05:30</sent>
+  <status>Actual</status>
+  <msgType>Alert</msgType>
+  <scope>Public</scope>
+  <info>
+    <category>Met</category>
+    <event>Severe Riverine Flooding</event>
+    <urgency>Immediate</urgency>
+    <severity>Severe</severity>
+    <certainty>Observed</certainty>
+    <effective>2026-10-19T06:00:00+05:30</effective>
+    <expires>2026-10-21T18:00:00+05:30</expires>
+    <headline>Severe Flood Emergency in Morigaon</headline>
+    <description>Severe inundation across floodplains of Morigaon as Brahmaputra breaches warning levels.</description>
+    <instruction>Evacuate immediately to designated relief shelters.</instruction>
+    <area>
+      <areaDesc>Morigaon, Assam</areaDesc>
+      <circle>26.25,92.34,15.0</circle>
+    </area>
+  </info>
+</alert>

@@ -1,0 +1,20 @@
+{
+  "timestamp": 1792423641.7313373,
+  "results": [
+    {
+      "name": "Mayong",
+      "display_name": "Mayong, India",
+      "lat": 26.1983967,
+      "lon": 92.1541018,
+      "type": "county",
+      "bbox": {
+        "lon1": 91.9729102,
+        "lat1": 26.0624662,
+        "lon2": 92.2990607,
+        "lat2": 26.3344176
+      },
+      "source": "geoapify",
+      "confidence": "low"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "timestamp": 1792419990.4075346,
+  "fetched_at": "2026-10-19T14:26:30.407536+00:00",
+  "payload": [
+    {
+      "place_id": 247816822,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 8903254895,
+      "lat": "27.8947837",
+      "lon": "78.0723619",
+      "class": "amenity",
+      "type": "school",
+      "place_rank": 30,
+      "importance": 5.441596093685843e-05,
+      "addresstype": "amenity",
+      "name": "NAURANGI LAL INTER COLLEGE ALIGARH",
+      "display_name": "NAURANGI LAL INTER COLLEGE ALIGARH, University Road, Aligarh, Koil, Aligarh, Uttar Pradesh, 202001, India",
+      "address": {
+        "amenity": "NAURANGI LAL INTER COLLEGE ALIGARH",
+        "road": "University Road",
+        "city": "Aligarh",
+        "county": "Koil",
+        "state_district": "Aligarh",
+        "state": "Uttar Pradesh",
+        "ISO3166-2-lvl4": "IN-UP",
+        "postcode": "202001",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "27.8947337",
+        "27.8948337",
+        "78.0723119",
+        "78.0724119"
+      ]
+    },
+    {
+      "place_id": 245444553,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 11025007699,
+      "lat": "28.7464858",
+      "lon": "77.1620765",
+      "class": "craft",
+      "type": "electronics_repair",
+      "place_rank": 30,
+      "importance": 3.750133516437045e-05,
+      "addresstype": "craft",
+      "name": "Naurangi Lal Electricals",
+      "display_name": "Naurangi Lal Electricals, 30 Foota Road, Swami Shraddhanand Colony, Bhalswa, Civil Lines, Delhi, North Delhi, Delhi, 110042, India",
+      "address": {
+        "craft": "Naurangi Lal Electricals",
+        "road": "30 Foota Road",
+        "quarter": "Swami Shraddhanand Colony",
+        "suburb": "Bhalswa",
+        "city_district": "Civil Lines",
+        "city": "Delhi",
+        "state_district": "North Delhi",
+        "state": "Delhi",
+        "ISO3166-2-lvl4": "IN-DL",
+        "postcode": "110042",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "28.7464358",
+        "28.7465358",
+        "77.1620265",
+        "77.1621265"
+      ]
+    }
+  ]
+}

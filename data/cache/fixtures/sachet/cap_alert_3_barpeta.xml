@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alert xmlns="urn:oasis:names:tc:emergency:cap:1.2">
+  <identifier>SACHET-AS-2026-FL-0003</identifier>
+  <sender>ndma.gov.in</sender>
+  <sent>2026-10-19T06:30:00+05:30</sent>
+  <status>Actual</status>
+  <msgType>Alert</msgType>
+  <scope>Public</scope>
+  <info>
+    <category>Met</category>
+    <event>Heavy Rainfall and River Rise</event>
+    <urgency>Expected</urgency>
+    <severity>Moderate</severity>
+    <certainty>Possible</certainty>
+    <effective>2026-10-19T06:30:00+05:30</effective>
+    <expires>2026-10-21T06:00:00+05:30</expires>
+    <headline>Flood Advisory for Barpeta Lowlands</headline>
+    <description>Moderate to heavy rainfall causing waterlogging in Barpeta municipality and rural blocks.</description>
+    <instruction>Keep emergency food supplies and drinking water stored.</instruction>
+    <area>
+      <areaDesc>Barpeta, Assam</areaDesc>
+    </area>
+  </info>
+</alert>

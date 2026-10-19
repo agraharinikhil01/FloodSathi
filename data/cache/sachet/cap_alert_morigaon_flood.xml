@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alert xmlns="urn:oasis:names:tc:emergency:cap:1.2">
+  <identifier>SACHET-AS-2026-FL-0042</identifier>
+  <sender>ndma.gov.in</sender>
+  <sent>2026-10-19T06:00:00+05:30</sent>
+  <status>Actual</status>
+  <msgType>Alert</msgType>
+  <scope>Public</scope>
+  <info>
+    <category>Met</category>
+    <event>Severe Riverine Flooding and Inundation</event>
+    <urgency>Immediate</urgency>
+    <severity>Severe</severity>
+    <certainty>Observed</certainty>
+    <effective>2026-10-19T06:00:00+05:30</effective>
+    <expires>2026-10-21T18:00:00+05:30</expires>
+    <headline>Official Severe Flood Warning for Morigaon</headline>
+    <description>Brahmaputra river and Kopili river are flowing 2.5 meters above the danger level. Extreme flooding expected across Morigaon district revenue circles.</description>
+    <instruction>Evacuate to elevated shelters immediately. Follow instructions from local district administration and NDRF teams.</instruction>
+    <area>
+      <areaDesc>Morigaon, Assam</areaDesc>
+      <circle>26.25,92.34,15.0</circle>
+      <polygon>26.0,92.1 26.5,92.1 26.5,92.6 26.0,92.6 26.0,92.1</polygon>
+    </area>
+  </info>
+</alert>

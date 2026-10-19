@@ -1,0 +1,27 @@
+{
+  "timestamp": 1792418590.242295,
+  "fetched_at": "2026-10-19T14:03:10.242299+00:00",
+  "payload": [
+    {
+      "place_id": 244303677,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 16475025,
+      "lat": "23.6802190",
+      "lon": "78.9500954",
+      "class": "boundary",
+      "type": "administrative",
+      "place_rank": 18,
+      "importance": 0.16004000076295108,
+      "addresstype": "city_district",
+      "name": "Kata",
+      "display_name": "Kata, Rehli Tahsil, Sagar, Madhya Pradesh, India",
+      "boundingbox": [
+        "23.6600532",
+        "23.7003314",
+        "78.9209169",
+        "78.9789965"
+      ]
+    }
+  ]
+}

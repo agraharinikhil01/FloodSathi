@@ -1,0 +1,137 @@
+{
+  "timestamp": 1792423851.8086646,
+  "fetched_at": "2026-10-19T15:30:51.808666+00:00",
+  "payload": [
+    {
+      "place_id": 253691792,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 801622287,
+      "lat": "9.4030902",
+      "lon": "76.7943217",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.05338070572976269,
+      "addresstype": "road",
+      "name": "ma",
+      "display_name": "ma, Chethomkara, Ranni, Pathanamthitta, Kerala, 689677, India",
+      "address": {
+        "road": "ma",
+        "village": "Chethomkara",
+        "town": "Ranni",
+        "state_district": "Pathanamthitta",
+        "state": "Kerala",
+        "ISO3166-2-lvl4": "IN-KL",
+        "postcode": "689677",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "9.4029830",
+        "9.4033300",
+        "76.7935424",
+        "76.7951206"
+      ]
+    },
+    {
+      "place_id": 251777414,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 4099653291,
+      "lat": "14.5899863",
+      "lon": "77.1912061",
+      "class": "tourism",
+      "type": "artwork",
+      "place_rank": 30,
+      "importance": 3.750133516437045e-05,
+      "addresstype": "tourism",
+      "name": "ma",
+      "display_name": "ma, Anantapur - Kalyandurg - Rayadurg Road, Patacheruva, Kalyandurg Mandal, Anantapuramu District, Andhra Pradesh, India",
+      "address": {
+        "tourism": "ma",
+        "road": "Anantapur - Kalyandurg - Rayadurg Road",
+        "village": "Patacheruva",
+        "county": "Kalyandurg Mandal",
+        "state_district": "Anantapuramu District",
+        "state": "Andhra Pradesh",
+        "ISO3166-2-lvl4": "IN-AP",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "14.5899363",
+        "14.5900363",
+        "77.1911561",
+        "77.1912561"
+      ]
+    },
+    {
+      "place_id": 248541876,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 6161153169,
+      "lat": "18.0301719",
+      "lon": "75.5464219",
+      "class": "railway",
+      "type": "station",
+      "place_rank": 30,
+      "importance": 0.04539457909600718,
+      "addresstype": "railway",
+      "name": "Madha",
+      "display_name": "Madha, SH150, Undargaon, Madha, Solapur, Maharashtra, India",
+      "address": {
+        "railway": "Madha",
+        "road": "SH150",
+        "village": "Undargaon",
+        "county": "Madha",
+        "state_district": "Solapur",
+        "state": "Maharashtra",
+        "ISO3166-2-lvl4": "IN-MH",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "18.0251719",
+        "18.0351719",
+        "75.5414219",
+        "75.5514219"
+      ]
+    },
+    {
+      "place_id": 252467175,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 37947768,
+      "lat": "13.0183984",
+      "lon": "77.5700316",
+      "class": "building",
+      "type": "university",
+      "place_rank": 30,
+      "importance": 7.094453345536e-05,
+      "addresstype": "building",
+      "name": "Department of Mathematics",
+      "display_name": "Department of Mathematics, Math Department Road, Sadashivanagar, Sadashiva Nagara, Bengaluru West City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560012, India",
+      "address": {
+        "building": "Department of Mathematics",
+        "road": "Math Department Road",
+        "suburb": "Sadashivanagar",
+        "city_district": "Bengaluru West City Corporation",
+        "city": "Bengaluru",
+        "county": "Bangalore North",
+        "state_district": "Bengaluru Urban",
+        "state": "Karnataka",
+        "ISO3166-2-lvl4": "IN-KA",
+        "postcode": "560012",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "13.0181001",
+        "13.0186401",
+        "77.5697806",
+        "77.5703450"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "results": [
+    {"elevation": 52.0, "location": {"lat": 26.25, "lng": 92.34}, "dataset": "srtm90m"},
+    {"elevation": 48.5, "location": {"lat": 26.26, "lng": 92.35}, "dataset": "srtm90m"},
+    {"elevation": 44.0, "location": {"lat": 26.27, "lng": 92.36}, "dataset": "srtm90m"}
+  ],
+  "status": "OK"
+}

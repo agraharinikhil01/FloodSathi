@@ -1,0 +1,190 @@
+{
+  "timestamp": 1792419999.8322344,
+  "fetched_at": "2026-10-19T14:26:39.832237+00:00",
+  "payload": [
+    {
+      "place_id": 246305136,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 4358911810,
+      "lat": "25.5886009",
+      "lon": "75.6007593",
+      "class": "highway",
+      "type": "bus_stop",
+      "place_rank": 30,
+      "importance": 4.70336461432367e-05,
+      "addresstype": "highway",
+      "name": "Kh",
+      "display_name": "Kh, MDR52, Mendi, Dhowara, Hindoli Tehsil, Bundi, Rajasthan, India",
+      "address": {
+        "highway": "Kh",
+        "road": "MDR52",
+        "hamlet": "Mendi",
+        "village": "Dhowara",
+        "county": "Hindoli Tehsil",
+        "state_district": "Bundi",
+        "state": "Rajasthan",
+        "ISO3166-2-lvl4": "IN-RJ",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "25.5885509",
+        "25.5886509",
+        "75.6007093",
+        "75.6008093"
+      ]
+    },
+    {
+      "place_id": 248712883,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 6085778743,
+      "lat": "19.2298810",
+      "lon": "77.9272376",
+      "class": "place",
+      "type": "village",
+      "place_rank": 19,
+      "importance": 0.14670416800183103,
+      "addresstype": "village",
+      "name": "Khasra",
+      "display_name": "Khasra, Kubeer mandal, Nirmal, Telangana, India",
+      "address": {
+        "village": "Khasra",
+        "county": "Kubeer mandal",
+        "state_district": "Nirmal",
+        "state": "Telangana",
+        "ISO3166-2-lvl4": "IN-TS",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "19.2098810",
+        "19.2498810",
+        "77.9072376",
+        "77.9472376"
+      ]
+    },
+    {
+      "place_id": 241893695,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 566672802,
+      "lat": "26.1805978",
+      "lon": "91.7539430",
+      "class": "place",
+      "type": "city",
+      "place_rank": 16,
+      "importance": 0.5625562143172986,
+      "addresstype": "city",
+      "name": "Guwahati",
+      "display_name": "Guwahati, Kamrup Metropolitan, Assam, 781001, India",
+      "address": {
+        "city": "Guwahati",
+        "county": "Guwahati",
+        "state_district": "Kamrup Metropolitan",
+        "state": "Assam",
+        "ISO3166-2-lvl4": "IN-AS",
+        "postcode": "781001",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "26.0205978",
+        "26.3405978",
+        "91.5939430",
+        "91.9139430"
+      ]
+    },
+    {
+      "place_id": 247481663,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 14138055,
+      "lat": "20.8907001",
+      "lon": "77.8403220",
+      "class": "boundary",
+      "type": "administrative",
+      "place_rank": 18,
+      "importance": 0.16005465705348285,
+      "addresstype": "city_district",
+      "name": "Bhankheda Kh",
+      "display_name": "Bhankheda Kh, Amravati, Maharashtra, India",
+      "address": {
+        "city_district": "Bhankheda Kh",
+        "county": "Amravati",
+        "state_district": "Amravati",
+        "state": "Maharashtra",
+        "ISO3166-2-lvl4": "IN-MH",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "20.8703008",
+        "20.9103951",
+        "77.8185761",
+        "77.8618240"
+      ]
+    },
+    {
+      "place_id": 247206924,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 14211692,
+      "lat": "20.8068799",
+      "lon": "77.7160091",
+      "class": "boundary",
+      "type": "administrative",
+      "place_rank": 18,
+      "importance": 0.16005465705348285,
+      "addresstype": "city_district",
+      "name": "Adgaon Kh",
+      "display_name": "Adgaon Kh, Nandgaon-Khandeshwar, Amravati, Maharashtra, India",
+      "address": {
+        "city_district": "Adgaon Kh",
+        "county": "Nandgaon-Khandeshwar",
+        "state_district": "Amravati",
+        "state": "Maharashtra",
+        "ISO3166-2-lvl4": "IN-MH",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "20.7960982",
+        "20.8196865",
+        "77.7021575",
+        "77.7276706"
+      ]
+    },
+    {
+      "place_id": 247372352,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 14137411,
+      "lat": "21.0669807",
+      "lon": "77.8372666",
+      "class": "boundary",
+      "type": "administrative",
+      "place_rank": 18,
+      "importance": 0.16005465705348285,
+      "addresstype": "city_district",
+      "name": "Salora Kh",
+      "display_name": "Salora Kh, Amravati, Maharashtra, India",
+      "address": {
+        "city_district": "Salora Kh",
+        "county": "Amravati",
+        "state_district": "Amravati",
+        "state": "Maharashtra",
+        "ISO3166-2-lvl4": "IN-MH",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "21.0564879",
+        "21.0773924",
+        "77.8227496",
+        "77.8468680"
+      ]
+    }
+  ]
+}

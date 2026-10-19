@@ -1,0 +1,142 @@
+{
+  "timestamp": 1792419981.7587373,
+  "fetched_at": "2026-10-19T14:26:21.758739+00:00",
+  "payload": [
+    {
+      "place_id": 253294179,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 9789561218,
+      "lat": "10.9317891",
+      "lon": "76.4730737",
+      "class": "shop",
+      "type": "yes",
+      "place_rank": 30,
+      "importance": 4.564812695501667e-05,
+      "addresstype": "shop",
+      "name": "NA",
+      "display_name": "NA, Ponnamgode-Kootilekadavu Road, Kariyad, Pombra, Ottappalam, Palakkad, Kerala, 678595, India",
+      "address": {
+        "shop": "NA",
+        "road": "Ponnamgode-Kootilekadavu Road",
+        "neighbourhood": "Kariyad",
+        "village": "Pombra",
+        "county": "Ottappalam",
+        "state_district": "Palakkad",
+        "state": "Kerala",
+        "ISO3166-2-lvl4": "IN-KL",
+        "postcode": "678595",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "10.9317391",
+        "10.9318391",
+        "76.4730237",
+        "76.4731237"
+      ]
+    },
+    {
+      "place_id": 382253763,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1504077824,
+      "lat": "19.2203728",
+      "lon": "73.1035600",
+      "class": "highway",
+      "type": "secondary",
+      "place_rank": 26,
+      "importance": 0.053383719386587286,
+      "addresstype": "road",
+      "name": "90ft Road",
+      "display_name": "90ft Road, Thakurli, Dombivli, Dombivali, Kalyan Subdistrict, Thane, Maharashtra, 421201, India",
+      "address": {
+        "road": "90ft Road",
+        "suburb": "Thakurli",
+        "borough": "Dombivli",
+        "city": "Dombivali",
+        "county": "Kalyan Subdistrict",
+        "state_district": "Thane",
+        "state": "Maharashtra",
+        "ISO3166-2-lvl4": "IN-MH",
+        "postcode": "421201",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "19.2184219",
+        "19.2223149",
+        "73.1027816",
+        "73.1043143"
+      ]
+    },
+    {
+      "place_id": 248381575,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1432213047,
+      "lat": "19.2267953",
+      "lon": "73.1013369",
+      "class": "highway",
+      "type": "secondary",
+      "place_rank": 26,
+      "importance": 0.053383719386587286,
+      "addresstype": "road",
+      "name": "Kalyan Road",
+      "display_name": "Kalyan Road, Thakurli, Dombivli, Dombivali, Kalyan Subdistrict, Thane, Maharashtra, 421308, India",
+      "address": {
+        "road": "Kalyan Road",
+        "suburb": "Thakurli",
+        "borough": "Dombivli",
+        "city": "Dombivali",
+        "county": "Kalyan Subdistrict",
+        "state_district": "Thane",
+        "state": "Maharashtra",
+        "ISO3166-2-lvl4": "IN-MH",
+        "postcode": "421308",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "19.2263691",
+        "19.2269855",
+        "73.1010050",
+        "73.1019156"
+      ]
+    },
+    {
+      "place_id": 429971493,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 14264630552,
+      "lat": "18.4514701",
+      "lon": "73.8567102",
+      "class": "natural",
+      "type": "tree",
+      "place_rank": 30,
+      "importance": 6.893644617375475e-05,
+      "addresstype": "natural",
+      "name": "Indian Banyan",
+      "display_name": "Indian Banyan, Satara Road, Katraj, Pune, Pune City Subdistrict, Pune, Maharashtra, 411046, India",
+      "address": {
+        "natural": "Indian Banyan",
+        "road": "Satara Road",
+        "suburb": "Katraj",
+        "city": "Pune",
+        "county": "Pune City Subdistrict",
+        "state_district": "Pune",
+        "state": "Maharashtra",
+        "ISO3166-2-lvl4": "IN-MH",
+        "postcode": "411046",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "18.4514201",
+        "18.4515201",
+        "73.8566602",
+        "73.8567602"
+      ]
+    }
+  ]
+}

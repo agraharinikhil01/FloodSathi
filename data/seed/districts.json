@@ -1,0 +1,12 @@
+[
+  {"name": "Morigaon",    "state": "Assam",   "lat": 26.25, "lon": 92.34, "bbox": [26.0, 26.5, 92.1, 92.6]},
+  {"name": "Dhubri",      "state": "Assam",   "lat": 26.02, "lon": 89.98, "bbox": [25.75, 26.30, 89.7, 90.3]},
+  {"name": "Barpeta",     "state": "Assam",   "lat": 26.32, "lon": 91.01, "bbox": [26.05, 26.60, 90.7, 91.3]},
+  {"name": "Lakhimpur",   "state": "Assam",   "lat": 27.24, "lon": 94.10, "bbox": [26.95, 27.55, 93.8, 94.4]},
+  {"name": "Goalpara",    "state": "Assam",   "lat": 26.17, "lon": 90.62, "bbox": [25.90, 26.45, 90.3, 90.9]},
+  {"name": "Darbhanga",   "state": "Bihar",   "lat": 26.15, "lon": 85.90, "bbox": [25.90, 26.40, 85.65, 86.15]},
+  {"name": "Muzaffarpur", "state": "Bihar",   "lat": 26.12, "lon": 85.36, "bbox": [25.87, 26.37, 85.10, 85.60]},
+  {"name": "Sitamarhi",   "state": "Bihar",   "lat": 26.59, "lon": 85.48, "bbox": [26.34, 26.84, 85.22, 85.72]},
+  {"name": "Alappuzha",   "state": "Kerala",  "lat": 9.49,  "lon": 76.33, "bbox": [9.25, 9.74, 76.10, 76.55]},
+  {"name": "Ernakulam",   "state": "Kerala",  "lat": 9.98,  "lon": 76.28, "bbox": [9.75, 10.20, 76.05, 76.50]}
+]

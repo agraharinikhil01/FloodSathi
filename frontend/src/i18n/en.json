@@ -1,0 +1,32 @@
+{
+  "app": {
+    "name": "FloodSaathi",
+    "tagline": "Flood Early-Warning & Rescue Coordination",
+    "disclaimer": "Decision-support tool. Follow official IMD / NDMA warnings."
+  },
+  "nav": {
+    "map": "Risk Map",
+    "help": "Get Help",
+    "coordinator": "Coordination",
+    "alerts": "Alerts",
+    "status": "System Status",
+    "login": "Login",
+    "logout": "Logout"
+  },
+  "risk": {
+    "title": "Flood Risk Assessment",
+    "low": "Low Risk",
+    "medium": "Medium Risk",
+    "high": "High Risk",
+    "severe": "Severe Risk",
+    "officialBadge": "Official Alert Active",
+    "modelEstimate": "Modelled Estimate"
+  },
+  "actions": {
+    "sos": "EMERGENCY SOS",
+    "submit": "Submit Request",
+    "cancel": "Cancel",
+    "refresh": "Refresh",
+    "assign": "Auto-Match Resources"
+  }
+}

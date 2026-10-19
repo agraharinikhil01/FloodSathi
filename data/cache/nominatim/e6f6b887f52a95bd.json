@@ -1,0 +1,27 @@
+{
+  "timestamp": 1792398951.3246934,
+  "fetched_at": "2026-10-19T08:35:51.324695+00:00",
+  "payload": [
+    {
+      "place_id": 242575613,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 10047763,
+      "lat": "26.1983967",
+      "lon": "92.1541018",
+      "class": "boundary",
+      "type": "administrative",
+      "place_rank": 12,
+      "importance": 0.24000999999999997,
+      "addresstype": "county",
+      "name": "Mayong",
+      "display_name": "Mayong, Marigaon, Assam, India",
+      "boundingbox": [
+        "26.0624662",
+        "26.3344176",
+        "91.9729102",
+        "92.2990607"
+      ]
+    }
+  ]
+}

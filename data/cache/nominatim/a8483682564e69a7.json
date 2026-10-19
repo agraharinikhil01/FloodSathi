@@ -1,0 +1,187 @@
+{
+  "timestamp": 1792420001.833431,
+  "fetched_at": "2026-10-19T14:26:41.833433+00:00",
+  "payload": [
+    {
+      "place_id": 247362017,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 16638017,
+      "lat": "22.6360089",
+      "lon": "77.0491086",
+      "class": "boundary",
+      "type": "administrative",
+      "place_rank": 18,
+      "importance": 0.16004000076295108,
+      "addresstype": "city_district",
+      "name": "Khal",
+      "display_name": "Khal, Khategaon Tahsil, Dewas, Madhya Pradesh, India",
+      "address": {
+        "city_district": "Khal",
+        "county": "Khategaon Tahsil",
+        "state_district": "Dewas",
+        "state": "Madhya Pradesh",
+        "ISO3166-2-lvl4": "IN-MP",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "22.6231163",
+        "22.6493813",
+        "77.0242571",
+        "77.0678972"
+      ]
+    },
+    {
+      "place_id": 245650369,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 16638018,
+      "lat": "22.5300075",
+      "lon": "76.6017458",
+      "class": "boundary",
+      "type": "administrative",
+      "place_rank": 18,
+      "importance": 0.16004000076295108,
+      "addresstype": "city_district",
+      "name": "Khal",
+      "display_name": "Khal, Satwas Tahsil, Dewas, Madhya Pradesh, India",
+      "address": {
+        "city_district": "Khal",
+        "county": "Satwas Tahsil",
+        "state_district": "Dewas",
+        "state": "Madhya Pradesh",
+        "ISO3166-2-lvl4": "IN-MP",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "22.5184582",
+        "22.5416130",
+        "76.5901823",
+        "76.6149770"
+      ]
+    },
+    {
+      "place_id": 245654281,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 16625794,
+      "lat": "22.4649673",
+      "lon": "77.5728752",
+      "class": "boundary",
+      "type": "administrative",
+      "place_rank": 18,
+      "importance": 0.16004000076295108,
+      "addresstype": "city_district",
+      "name": "Khal",
+      "display_name": "Khal, Seoni-Malwa Tahsil, Narmadapuram, Madhya Pradesh, India",
+      "address": {
+        "city_district": "Khal",
+        "county": "Seoni-Malwa Tahsil",
+        "state_district": "Narmadapuram",
+        "state": "Madhya Pradesh",
+        "ISO3166-2-lvl4": "IN-MP",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "22.4558287",
+        "22.4742643",
+        "77.5598791",
+        "77.5840541"
+      ]
+    },
+    {
+      "place_id": 242613541,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 342108186,
+      "lat": "30.2906800",
+      "lon": "79.2004400",
+      "class": "place",
+      "type": "village",
+      "place_rank": 19,
+      "importance": 0.14670988097962917,
+      "addresstype": "village",
+      "name": "Khal",
+      "display_name": "Khal, Pokhari, Chamoli, Uttarakhand, 246429, India",
+      "address": {
+        "village": "Khal",
+        "county": "Pokhari",
+        "state_district": "Chamoli",
+        "state": "Uttarakhand",
+        "ISO3166-2-lvl4": "IN-UK",
+        "postcode": "246429",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "30.2706800",
+        "30.3106800",
+        "79.1804400",
+        "79.2204400"
+      ]
+    },
+    {
+      "place_id": 247375555,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 11380883034,
+      "lat": "22.5319444",
+      "lon": "76.5998415",
+      "class": "place",
+      "type": "village",
+      "place_rank": 19,
+      "importance": 0.14670666742961772,
+      "addresstype": "village",
+      "name": "Khal",
+      "display_name": "Khal, Satwas Tahsil, Dewas, Madhya Pradesh, India",
+      "address": {
+        "village": "Khal",
+        "county": "Satwas Tahsil",
+        "state_district": "Dewas",
+        "state": "Madhya Pradesh",
+        "ISO3166-2-lvl4": "IN-MP",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "22.5119444",
+        "22.5519444",
+        "76.5798415",
+        "76.6198415"
+      ]
+    },
+    {
+      "place_id": 245656473,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 11387265216,
+      "lat": "22.4638185",
+      "lon": "77.5670352",
+      "class": "place",
+      "type": "village",
+      "place_rank": 19,
+      "importance": 0.14670666742961772,
+      "addresstype": "village",
+      "name": "Khal",
+      "display_name": "Khal, Seoni-Malwa Tahsil, Narmadapuram, Madhya Pradesh, India",
+      "address": {
+        "village": "Khal",
+        "county": "Seoni-Malwa Tahsil",
+        "state_district": "Narmadapuram",
+        "state": "Madhya Pradesh",
+        "ISO3166-2-lvl4": "IN-MP",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "22.4438185",
+        "22.4838185",
+        "77.5470352",
+        "77.5870352"
+      ]
+    }
+  ]
+}

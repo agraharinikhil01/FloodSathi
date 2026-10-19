@@ -1,0 +1,19 @@
+{
+  "color_codes": {
+    "1": {"label": "No Warning", "color": "Green", "level": "low"},
+    "2": {"label": "Watch / Be Updated", "color": "Yellow", "level": "medium"},
+    "3": {"label": "Alert / Be Prepared", "color": "Orange", "level": "high"},
+    "4": {"label": "Warning / Take Action", "color": "Red", "level": "severe"}
+  },
+  "weather_codes": {
+    "1": "Heavy Rain",
+    "2": "Very Heavy Rain",
+    "3": "Extremely Heavy Rain",
+    "4": "Thunderstorm with Lightning",
+    "5": "Squall / Gale Winds",
+    "6": "Flash Flood / Inundation",
+    "7": "Riverine Flooding",
+    "8": "Cyclonic Storm",
+    "9": "Rough Sea / Coastal Surge"
+  }
+}

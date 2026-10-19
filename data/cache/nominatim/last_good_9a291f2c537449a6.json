@@ -1,0 +1,33 @@
+{
+  "timestamp": 1792419963.6118112,
+  "fetched_at": "2026-10-19T14:26:03.611813+00:00",
+  "payload": [
+    {
+      "place_id": 250529315,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 2019939,
+      "lat": "14.9562045",
+      "lon": "75.7896741",
+      "class": "boundary",
+      "type": "administrative",
+      "place_rank": 8,
+      "importance": 0.7099181885432477,
+      "addresstype": "state",
+      "name": "Karnataka",
+      "display_name": "Karnataka, India",
+      "address": {
+        "state": "Karnataka",
+        "ISO3166-2-lvl4": "IN-KA",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "11.5945587",
+        "18.4766494",
+        "74.0543908",
+        "78.5875761"
+      ]
+    }
+  ]
+}

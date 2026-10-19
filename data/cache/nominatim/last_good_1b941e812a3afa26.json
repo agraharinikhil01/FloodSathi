@@ -1,0 +1,193 @@
+{
+  "timestamp": 1792420002.833804,
+  "fetched_at": "2026-10-19T14:26:42.833806+00:00",
+  "payload": [
+    {
+      "place_id": 248703697,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 10073635512,
+      "lat": "19.0287522",
+      "lon": "76.7076266",
+      "class": "place",
+      "type": "village",
+      "place_rank": 19,
+      "importance": 0.14670416800183103,
+      "addresstype": "village",
+      "name": "Khali",
+      "display_name": "Khali, Gangakhed, Parbhani, Maharashtra, India",
+      "address": {
+        "village": "Khali",
+        "county": "Gangakhed",
+        "state_district": "Parbhani",
+        "state": "Maharashtra",
+        "ISO3166-2-lvl4": "IN-MH",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "19.0087522",
+        "19.0487522",
+        "76.6876266",
+        "76.7276266"
+      ]
+    },
+    {
+      "place_id": 213202289,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 7916563680,
+      "lat": "32.5911535",
+      "lon": "76.1271322",
+      "class": "place",
+      "type": "hamlet",
+      "place_rank": 20,
+      "importance": 0.13337920424200808,
+      "addresstype": "hamlet",
+      "name": "Khali",
+      "display_name": "Khali, Chamba, Himachal Pradesh, 176310, India",
+      "address": {
+        "hamlet": "Khali",
+        "city": "Chamba",
+        "county": "Chamba",
+        "state_district": "Chamba",
+        "state": "Himachal Pradesh",
+        "ISO3166-2-lvl4": "IN-HP",
+        "postcode": "176310",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "32.5711535",
+        "32.6111535",
+        "76.1071322",
+        "76.1471322"
+      ]
+    },
+    {
+      "place_id": 244167954,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 7905585279,
+      "lat": "29.5846911",
+      "lon": "79.4247150",
+      "class": "place",
+      "type": "hamlet",
+      "place_rank": 20,
+      "importance": 0.1333733340962844,
+      "addresstype": "hamlet",
+      "name": "Khali",
+      "display_name": "Khali, Mandakot, Ranikhet, Almora, Uttarakhand, 263402, India",
+      "address": {
+        "hamlet": "Khali",
+        "village": "Mandakot",
+        "county": "Ranikhet",
+        "state_district": "Almora",
+        "state": "Uttarakhand",
+        "ISO3166-2-lvl4": "IN-UK",
+        "postcode": "263402",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "29.5646911",
+        "29.6046911",
+        "79.4047150",
+        "79.4447150"
+      ]
+    },
+    {
+      "place_id": 243601740,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 8870151991,
+      "lat": "31.2729574",
+      "lon": "76.9692921",
+      "class": "place",
+      "type": "hamlet",
+      "place_rank": 20,
+      "importance": 0.13337083466849772,
+      "addresstype": "hamlet",
+      "name": "Khali",
+      "display_name": "Khali, Kashlog, Darlaghat, Solan, Himachal Pradesh, India",
+      "address": {
+        "hamlet": "Khali",
+        "village": "Kashlog",
+        "county": "Darlaghat",
+        "state_district": "Solan",
+        "state": "Himachal Pradesh",
+        "ISO3166-2-lvl4": "IN-HP",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "31.2529574",
+        "31.2929574",
+        "76.9492921",
+        "76.9892921"
+      ]
+    },
+    {
+      "place_id": 244105855,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 7936541179,
+      "lat": "29.2143954",
+      "lon": "79.6702337",
+      "class": "place",
+      "type": "hamlet",
+      "place_rank": 20,
+      "importance": 0.13337083466849772,
+      "addresstype": "hamlet",
+      "name": "Khali",
+      "display_name": "Khali, Dhari, Nainital, Uttarakhand, India",
+      "address": {
+        "hamlet": "Khali",
+        "county": "Dhari",
+        "state_district": "Nainital",
+        "state": "Uttarakhand",
+        "ISO3166-2-lvl4": "IN-UK",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "29.1943954",
+        "29.2343954",
+        "79.6502337",
+        "79.6902337"
+      ]
+    },
+    {
+      "place_id": 244247139,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 7835281106,
+      "lat": "30.3735146",
+      "lon": "79.0660954",
+      "class": "place",
+      "type": "hamlet",
+      "place_rank": 20,
+      "importance": 0.13337083466849772,
+      "addresstype": "hamlet",
+      "name": "Khali",
+      "display_name": "Khali, Agastmuni, Rudraprayag, Uttarakhand, 246425, India",
+      "address": {
+        "hamlet": "Khali",
+        "town": "Agastmuni",
+        "county": "Rudraprayag",
+        "state_district": "Rudraprayag",
+        "state": "Uttarakhand",
+        "ISO3166-2-lvl4": "IN-UK",
+        "postcode": "246425",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "30.3535146",
+        "30.3935146",
+        "79.0460954",
+        "79.0860954"
+      ]
+    }
+  ]
+}

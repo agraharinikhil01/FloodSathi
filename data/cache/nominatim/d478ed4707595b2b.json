@@ -1,0 +1,195 @@
+{
+  "timestamp": 1792419350.0934997,
+  "fetched_at": "2026-10-19T14:15:50.093502+00:00",
+  "payload": [
+    {
+      "place_id": 243209605,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 16513571,
+      "lat": "24.1363230",
+      "lon": "81.8990280",
+      "class": "boundary",
+      "type": "administrative",
+      "place_rank": 18,
+      "importance": 0.16004000076295108,
+      "addresstype": "city_district",
+      "name": "Katai",
+      "display_name": "Katai, Sarai Tahsil, Singrauli, Madhya Pradesh, India",
+      "address": {
+        "city_district": "Katai",
+        "county": "Sarai Tahsil",
+        "state_district": "Singrauli",
+        "state": "Madhya Pradesh",
+        "ISO3166-2-lvl4": "IN-MP",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "24.1154665",
+        "24.1572210",
+        "81.8778826",
+        "81.9148337"
+      ]
+    },
+    {
+      "place_id": 243393493,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 16503057,
+      "lat": "24.8802709",
+      "lon": "81.1538179",
+      "class": "boundary",
+      "type": "administrative",
+      "place_rank": 18,
+      "importance": 0.16004000076295108,
+      "addresstype": "city_district",
+      "name": "Katai",
+      "display_name": "Katai, Semaria Tahsil, Rewa, Madhya Pradesh, India",
+      "address": {
+        "city_district": "Katai",
+        "county": "Semaria Tahsil",
+        "state_district": "Rewa",
+        "state": "Madhya Pradesh",
+        "ISO3166-2-lvl4": "IN-MP",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "24.8720435",
+        "24.8891579",
+        "81.1452974",
+        "81.1600370"
+      ]
+    },
+    {
+      "place_id": 213557436,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 8630749335,
+      "lat": "32.0307950",
+      "lon": "77.1383753",
+      "class": "place",
+      "type": "hamlet",
+      "place_rank": 20,
+      "importance": 0.13338678034637977,
+      "addresstype": "hamlet",
+      "name": "Katai",
+      "display_name": "Katai, Karasu, Kullu, Himachal Pradesh, 175128, India",
+      "address": {
+        "hamlet": "Katai",
+        "village": "Karasu",
+        "county": "Kullu",
+        "state_district": "Kullu",
+        "state": "Himachal Pradesh",
+        "ISO3166-2-lvl4": "IN-HP",
+        "postcode": "175128",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "32.0107950",
+        "32.0507950",
+        "77.1183753",
+        "77.1583753"
+      ]
+    },
+    {
+      "place_id": 243451376,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 12230094305,
+      "lat": "24.8829327",
+      "lon": "81.1584091",
+      "class": "place",
+      "type": "hamlet",
+      "place_rank": 20,
+      "importance": 0.1333733340962844,
+      "addresstype": "hamlet",
+      "name": "Katai",
+      "display_name": "Katai, Baraha Khurd, Semaria Tahsil, Rewa, Madhya Pradesh, India",
+      "address": {
+        "hamlet": "Katai",
+        "city_district": "Katai",
+        "village": "Baraha Khurd",
+        "county": "Semaria Tahsil",
+        "state_district": "Rewa",
+        "state": "Madhya Pradesh",
+        "ISO3166-2-lvl4": "IN-MP",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "24.8629327",
+        "24.9029327",
+        "81.1384091",
+        "81.1784091"
+      ]
+    },
+    {
+      "place_id": 244155525,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 7915500544,
+      "lat": "30.7148507",
+      "lon": "77.6616668",
+      "class": "place",
+      "type": "hamlet",
+      "place_rank": 20,
+      "importance": 0.13337083466849772,
+      "addresstype": "hamlet",
+      "name": "Katai",
+      "display_name": "Katai, Shalai, Sirmaur, Himachal Pradesh, 173027, India",
+      "address": {
+        "hamlet": "Katai",
+        "county": "Shalai",
+        "state_district": "Sirmaur",
+        "state": "Himachal Pradesh",
+        "ISO3166-2-lvl4": "IN-HP",
+        "postcode": "173027",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "30.6948507",
+        "30.7348507",
+        "77.6416668",
+        "77.6816668"
+      ]
+    },
+    {
+      "place_id": 248950894,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 5178045377,
+      "lat": "19.1697955",
+      "lon": "73.0787158",
+      "class": "place",
+      "type": "neighbourhood",
+      "place_rank": 24,
+      "importance": 0.08005821698329134,
+      "addresstype": "neighbourhood",
+      "name": "Katai",
+      "display_name": "Katai, Nilaje, Gharivali, Kalyan-Dombivli, Kalyan Subdistrict, Thane, Maharashtra, 421204, India",
+      "address": {
+        "neighbourhood": "Katai",
+        "suburb": "Nilaje",
+        "village": "Gharivali",
+        "city": "Kalyan-Dombivli",
+        "county": "Kalyan Subdistrict",
+        "state_district": "Thane",
+        "state": "Maharashtra",
+        "ISO3166-2-lvl4": "IN-MH",
+        "postcode": "421204",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "19.1597955",
+        "19.1797955",
+        "73.0687158",
+        "73.0887158"
+      ]
+    }
+  ]
+}

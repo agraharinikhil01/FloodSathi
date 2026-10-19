@@ -1,0 +1,193 @@
+{
+  "timestamp": 1792423856.9868782,
+  "fetched_at": "2026-10-19T15:30:56.986880+00:00",
+  "payload": [
+    {
+      "place_id": 243018744,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 311395943,
+      "lat": "25.9380732",
+      "lon": "83.5633778",
+      "class": "railway",
+      "type": "station",
+      "place_rank": 30,
+      "importance": 0.3626429788867404,
+      "addresstype": "railway",
+      "name": "Mau Junction",
+      "display_name": "Mau Junction, Railway Station Road, Mau, Maunath Bhanjan, Mau, Uttar Pradesh, 275101, India",
+      "address": {
+        "railway": "Mau Junction",
+        "road": "Railway Station Road",
+        "city": "Mau",
+        "county": "Maunath Bhanjan",
+        "state_district": "Mau",
+        "state": "Uttar Pradesh",
+        "ISO3166-2-lvl4": "IN-UP",
+        "postcode": "275101",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "25.9330732",
+        "25.9430732",
+        "83.5583778",
+        "83.5683778"
+      ]
+    },
+    {
+      "place_id": 243092100,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 655151034,
+      "lat": "25.9391096",
+      "lon": "83.5716125",
+      "class": "place",
+      "type": "city",
+      "place_rank": 16,
+      "importance": 0.18671001983672844,
+      "addresstype": "city",
+      "name": "Mau",
+      "display_name": "Mau, Maunath Bhanjan, Mau, Uttar Pradesh, 275101, India",
+      "address": {
+        "city": "Mau",
+        "county": "Maunath Bhanjan",
+        "state_district": "Mau",
+        "state": "Uttar Pradesh",
+        "ISO3166-2-lvl4": "IN-UP",
+        "postcode": "275101",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "25.7791096",
+        "26.0991096",
+        "83.4116125",
+        "83.7316125"
+      ]
+    },
+    {
+      "place_id": 243089325,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 245731391,
+      "lat": "25.2707909",
+      "lon": "81.3726190",
+      "class": "place",
+      "type": "village",
+      "place_rank": 19,
+      "importance": 0.14670416800183103,
+      "addresstype": "village",
+      "name": "Mau",
+      "display_name": "Mau, Chitrakoot, Uttar Pradesh, India",
+      "address": {
+        "village": "Mau",
+        "county": "Mau",
+        "state_district": "Chitrakoot",
+        "state": "Uttar Pradesh",
+        "ISO3166-2-lvl4": "IN-UP",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "25.2507909",
+        "25.2907909",
+        "81.3526190",
+        "81.3926190"
+      ]
+    },
+    {
+      "place_id": 249936214,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 4620574832,
+      "lat": "22.2259721",
+      "lon": "80.1337943",
+      "class": "place",
+      "type": "hamlet",
+      "place_rank": 20,
+      "importance": 0.1333733340962844,
+      "addresstype": "hamlet",
+      "name": "Mau",
+      "display_name": "Mau, Changutola, Balagat Tahsil, Balaghat, Madhya Pradesh, India",
+      "address": {
+        "hamlet": "Mau",
+        "city_district": "Mau",
+        "village": "Changutola",
+        "county": "Balagat Tahsil",
+        "state_district": "Balaghat",
+        "state": "Madhya Pradesh",
+        "ISO3166-2-lvl4": "IN-MP",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "22.2059721",
+        "22.2459721",
+        "80.1137943",
+        "80.1537943"
+      ]
+    },
+    {
+      "place_id": 246962848,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 9579448200,
+      "lat": "24.7212719",
+      "lon": "79.2897659",
+      "class": "place",
+      "type": "hamlet",
+      "place_rank": 20,
+      "importance": 0.1333733340962844,
+      "addresstype": "hamlet",
+      "name": "Mau",
+      "display_name": "Mau, Kadwaha, Baldeogarh Tahsil, Tikamgarh, Madhya Pradesh, 471001, India",
+      "address": {
+        "hamlet": "Mau",
+        "city_district": "Mau",
+        "village": "Kadwaha",
+        "county": "Baldeogarh Tahsil",
+        "state_district": "Tikamgarh",
+        "state": "Madhya Pradesh",
+        "ISO3166-2-lvl4": "IN-MP",
+        "postcode": "471001",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "24.7012719",
+        "24.7412719",
+        "79.2697659",
+        "79.3097659"
+      ]
+    },
+    {
+      "place_id": 243449357,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 1959873,
+      "lat": "26.0390905",
+      "lon": "83.4985846",
+      "class": "boundary",
+      "type": "administrative",
+      "place_rank": 10,
+      "importance": 0.5776433006994944,
+      "addresstype": "state_district",
+      "name": "Mau",
+      "display_name": "Mau, Uttar Pradesh, India",
+      "address": {
+        "state_district": "Mau",
+        "state": "Uttar Pradesh",
+        "ISO3166-2-lvl4": "IN-UP",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "25.7972433",
+        "26.2807716",
+        "83.2954938",
+        "83.8108323"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "results": [
+    {
+      "name": "Danapur",
+      "display_name": "Danapur, Patna, Bihar, India",
+      "lat": 25.6359,
+      "lon": 85.0474,
+      "type": "town",
+      "bbox": {
+        "lon1": 85.02,
+        "lat1": 25.61,
+        "lon2": 85.06,
+        "lat2": 25.65
+      },
+      "source": "geoapify",
+      "confidence": "medium"
+    }
+  ]
+}

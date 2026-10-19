@@ -1,0 +1,35 @@
+{
+  "timestamp": 1792422518.9507167,
+  "results": [
+    {
+      "name": "Danapur",
+      "display_name": "Danapur, BR, India",
+      "lat": 25.6358901,
+      "lon": 85.0474045,
+      "type": "city",
+      "bbox": {
+        "lon1": 85.0474045,
+        "lat1": 25.6358901,
+        "lon2": 85.0474045,
+        "lat2": 25.6358901
+      },
+      "source": "geoapify",
+      "confidence": "low"
+    },
+    {
+      "name": "Danapura",
+      "display_name": "Danapura, KA, India",
+      "lat": 15.450727,
+      "lon": 76.5986002,
+      "type": "city",
+      "bbox": {
+        "lon1": 76.5986002,
+        "lat1": 15.450727,
+        "lon2": 76.5986002,
+        "lat2": 15.450727
+      },
+      "source": "geoapify",
+      "confidence": "low"
+    }
+  ]
+}

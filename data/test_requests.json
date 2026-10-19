@@ -1,0 +1,1062 @@
+[
+  {
+    "id": 1,
+    "raw_text": "मदद करो! भूरगांव में पानी गले तक पहुंच गया है। 6 लोग छत पर हैं। 2 बच्चे और बुजुर्ग हैं, नाव भेजो जल्दी!",
+    "language": "hi",
+    "true_urgency": "critical",
+    "true_need": "rescue",
+    "true_people_count": 6,
+    "true_vulnerable": [
+      "children",
+      "elderly"
+    ],
+    "true_location": "Bhuragaon"
+  },
+  {
+    "id": 2,
+    "raw_text": "Mayong village mein pani chhat tak aa gaya hai. 4 log fase hain, doob rahe hain, please rescue boat urgently!",
+    "language": "hinglish",
+    "true_urgency": "critical",
+    "true_need": "rescue",
+    "true_people_count": 4,
+    "true_vulnerable": [],
+    "true_location": "Mayong"
+  },
+  {
+    "id": 3,
+    "raw_text": "EMERGENCY: House sinking near Laharighat river bank! 5 family members trapped on rooftop including pregnant woman. Send NDRF boat immediately!",
+    "language": "en",
+    "true_urgency": "critical",
+    "true_need": "rescue",
+    "true_people_count": 5,
+    "true_vulnerable": [
+      "pregnant"
+    ],
+    "true_location": "Laharighat"
+  },
+  {
+    "id": 4,
+    "raw_text": "पानी का स्तर बहुत बढ़ गया है, मोरीगांव मेन रोड पर 8 लोग बहने वाले हैं, जान का खतरा है, बचाओ!",
+    "language": "hi",
+    "true_urgency": "critical",
+    "true_need": "rescue",
+    "true_people_count": 8,
+    "true_vulnerable": [],
+    "true_location": "Morigaon"
+  },
+  {
+    "id": 5,
+    "raw_text": "Gale tak pani bhar chuka hai ghar ke andar. 3 log dub rahe hain Dharamtul ke paas, immediate rescue needed!",
+    "language": "hinglish",
+    "true_urgency": "critical",
+    "true_need": "rescue",
+    "true_people_count": 3,
+    "true_vulnerable": [],
+    "true_location": "Dharamtul"
+  },
+  {
+    "id": 6,
+    "raw_text": "धमधा में बाढ़ के पानी में 1 व्यक्ति को सांप ने काट लिया है, अत्यधिक ब्लीडिंग हो रही है, डॉक्टर या एंबुलेंस भेजो!",
+    "language": "hi",
+    "true_urgency": "critical",
+    "true_need": "medical",
+    "true_people_count": 1,
+    "true_vulnerable": [],
+    "true_location": "Dhamdha"
+  },
+  {
+    "id": 7,
+    "raw_text": "Elderly patient having severe heart attack symptoms surrounded by 4ft water in Silchar hospital road. Doctor needed urgently!",
+    "language": "en",
+    "true_urgency": "critical",
+    "true_need": "medical",
+    "true_people_count": 1,
+    "true_vulnerable": [
+      "elderly"
+    ],
+    "true_location": "Silchar"
+  },
+  {
+    "id": 8,
+    "raw_text": "Dhemaji me ek pregnant aurat ko labor pain shuru ho gaya hai. Charo taraf flood water hai. Ambulance boat chahiye turant!",
+    "language": "hinglish",
+    "true_urgency": "critical",
+    "true_need": "medical",
+    "true_people_count": 2,
+    "true_vulnerable": [
+      "pregnant"
+    ],
+    "true_location": "Dhemaji"
+  },
+  {
+    "id": 9,
+    "raw_text": "Alappuzha kuttanad area: infant baby having high 104 fever and convulsions, no medicines available, road cut off by flood.",
+    "language": "en",
+    "true_urgency": "critical",
+    "true_need": "medical",
+    "true_people_count": 2,
+    "true_vulnerable": [
+      "children"
+    ],
+    "true_location": "Alappuzha"
+  },
+  {
+    "id": 10,
+    "raw_text": "दानापुर में बाढ़ में फंसे बुजुर्ग को सांस लेने में भारी तकलीफ है, ऑक्सीजन सिलेंडर खत्म हो रहा है, तुरंत मेडिकल मदद!",
+    "language": "hi",
+    "true_urgency": "critical",
+    "true_need": "medical",
+    "true_people_count": 1,
+    "true_vulnerable": [
+      "elderly"
+    ],
+    "true_location": "Danapur"
+  },
+  {
+    "id": 11,
+    "raw_text": "हम 7 लोग लहरिघाट स्कूल में पानी से घिरे हुए हैं। चारों तरफ 3 फीट पानी है। सुरक्षित जगह निकालने में मदद करें।",
+    "language": "hi",
+    "true_urgency": "high",
+    "true_need": "rescue",
+    "true_people_count": 7,
+    "true_vulnerable": [],
+    "true_location": "Laharighat"
+  },
+  {
+    "id": 12,
+    "raw_text": "Water entered our ground floor in Nagaon. 5 people stranded on second floor. Water still rising slowly, need evacuation support.",
+    "language": "en",
+    "true_urgency": "high",
+    "true_need": "rescue",
+    "true_people_count": 5,
+    "true_vulnerable": [],
+    "true_location": "Nagaon"
+  },
+  {
+    "id": 13,
+    "raw_text": "Jagiroad bypass ke pas 10 log phas gaye hain car mein. Road block ho gaya hai flood water se, evacuation boat bhejiye.",
+    "language": "hinglish",
+    "true_urgency": "high",
+    "true_need": "rescue",
+    "true_people_count": 10,
+    "true_vulnerable": [],
+    "true_location": "Jagiroad"
+  },
+  {
+    "id": 14,
+    "raw_text": "बोरबोरी गांव में 4 परिवार फंसे हैं, लगभग 12 लोग। रास्ता कट गया है, बोट से रेस्क्यू की जरूरत है।",
+    "language": "hi",
+    "true_urgency": "high",
+    "true_need": "rescue",
+    "true_people_count": 12,
+    "true_vulnerable": [],
+    "true_location": "Borbori"
+  },
+  {
+    "id": 15,
+    "raw_text": "Flooding in Koliabor village. 6 villagers including 2 disabled elderly unable to walk out. Need rescue team with stretcher.",
+    "language": "en",
+    "true_urgency": "high",
+    "true_need": "rescue",
+    "true_people_count": 6,
+    "true_vulnerable": [
+      "disabled",
+      "elderly"
+    ],
+    "true_location": "Koliabor"
+  },
+  {
+    "id": 16,
+    "raw_text": "Patna city bypass: 3 injured after tin roof collapsed due to heavy storm and flood. Need first aid kit and bandage.",
+    "language": "en",
+    "true_urgency": "high",
+    "true_need": "medical",
+    "true_people_count": 3,
+    "true_vulnerable": [],
+    "true_location": "Patna"
+  },
+  {
+    "id": 17,
+    "raw_text": "हमारे राहत शिविर मोरीगांव में 15 बच्चों को तेज डायरिया और उल्टी हो रही है। ओआरएस और डॉक्टर की टीम भेजें।",
+    "language": "hi",
+    "true_urgency": "high",
+    "true_need": "medical",
+    "true_people_count": 15,
+    "true_vulnerable": [
+      "children"
+    ],
+    "true_location": "Morigaon"
+  },
+  {
+    "id": 18,
+    "raw_text": "Ghogamukh primary health centre inundated. 4 dialysis patients need transfer to district hospital urgently.",
+    "language": "en",
+    "true_urgency": "high",
+    "true_need": "medical",
+    "true_people_count": 4,
+    "true_vulnerable": [],
+    "true_location": "Ghogamukh"
+  },
+  {
+    "id": 19,
+    "raw_text": "Chhatarpur area mein diabetic patient ki insulin khatam ho gayi hai. 2 days se trapped hain, medicines deliver kijiye.",
+    "language": "hinglish",
+    "true_urgency": "high",
+    "true_need": "medical",
+    "true_people_count": 1,
+    "true_vulnerable": [],
+    "true_location": "Chhatarpur"
+  },
+  {
+    "id": 20,
+    "raw_text": "कटिहार रेलवे कॉलोनी में 5 लोग पानी में पैर कटने से घायल हैं। टिटनेस इंजेक्शन और दवाई की आवश्यकता है।",
+    "language": "hi",
+    "true_urgency": "high",
+    "true_need": "medical",
+    "true_people_count": 5,
+    "true_vulnerable": [],
+    "true_location": "Katihar"
+  },
+  {
+    "id": 21,
+    "raw_text": "बिल्कुल सूखा राशन नहीं बचा है। जगीरोड में 10 मजदूर 2 दिन से भूखे हैं। पीने का पानी भी नहीं है।",
+    "language": "hi",
+    "true_urgency": "medium",
+    "true_need": "food",
+    "true_people_count": 10,
+    "true_vulnerable": [],
+    "true_location": "Jagiroad"
+  },
+  {
+    "id": 22,
+    "raw_text": "Mayong relief camp: drinking water contaminated with flood silt. 25 people need clean drinking water bottles and dry biscuits.",
+    "language": "en",
+    "true_urgency": "medium",
+    "true_need": "food",
+    "true_people_count": 25,
+    "true_vulnerable": [],
+    "true_location": "Mayong"
+  },
+  {
+    "id": 23,
+    "raw_text": "Morigaon ward 3 mein 8 log hain, khana pani sab doob gaya hai. Ration packets distribute karwayiye please.",
+    "language": "hinglish",
+    "true_urgency": "medium",
+    "true_need": "food",
+    "true_people_count": 8,
+    "true_vulnerable": [],
+    "true_location": "Morigaon"
+  },
+  {
+    "id": 24,
+    "raw_text": "Dhemaji railway station shelter: 40 displaced flood victims need baby milk powder and rice packets for dinner.",
+    "language": "en",
+    "true_urgency": "medium",
+    "true_need": "food",
+    "true_people_count": 40,
+    "true_vulnerable": [
+      "children"
+    ],
+    "true_location": "Dhemaji"
+  },
+  {
+    "id": 25,
+    "raw_text": "लहरिघाट पंचायत भवन में 18 लोग ठहरे हुए हैं, भोजन की व्यवस्था नहीं है। कृपया भोजन के पैकेट भिजवाएं।",
+    "language": "hi",
+    "true_urgency": "medium",
+    "true_need": "food",
+    "true_people_count": 18,
+    "true_vulnerable": [],
+    "true_location": "Laharighat"
+  },
+  {
+    "id": 26,
+    "raw_text": "हमारा कच्चा घर ढह गया है। भूरगांव तटबंध पर 6 लोग खुले आसमान में तिरपाल लगाकर रह रहे हैं। तंबू या शेल्टर चाहिए।",
+    "language": "hi",
+    "true_urgency": "medium",
+    "true_need": "shelter",
+    "true_people_count": 6,
+    "true_vulnerable": [],
+    "true_location": "Bhuragaon"
+  },
+  {
+    "id": 27,
+    "raw_text": "Silchar Tarapur: 4 families house submerged up to waist. Need temporary shelter in nearby high school.",
+    "language": "en",
+    "true_urgency": "medium",
+    "true_need": "shelter",
+    "true_people_count": 14,
+    "true_vulnerable": [],
+    "true_location": "Silchar"
+  },
+  {
+    "id": 28,
+    "raw_text": "Ghar pura flood water me chala gaya. 5 log highway side tent bana kar reh rahe hain. Tarpaulin and blankets needed urgently.",
+    "language": "hinglish",
+    "true_urgency": "medium",
+    "true_need": "shelter",
+    "true_people_count": 5,
+    "true_vulnerable": [],
+    "true_location": "Highway"
+  },
+  {
+    "id": 29,
+    "raw_text": "Muzaffarpur river side: 20 farm workers lost huts in flash flood. Need emergency relief camp accommodation.",
+    "language": "en",
+    "true_urgency": "medium",
+    "true_need": "shelter",
+    "true_people_count": 20,
+    "true_vulnerable": [],
+    "true_location": "Muzaffarpur"
+  },
+  {
+    "id": 30,
+    "raw_text": "धमधा कैंप में जगह नहीं है। 8 लोग और आ गए हैं, अतिरिक्त शेल्टर या टेंट की व्यवस्था करें।",
+    "language": "hi",
+    "true_urgency": "medium",
+    "true_need": "shelter",
+    "true_people_count": 8,
+    "true_vulnerable": [],
+    "true_location": "Dhamdha"
+  },
+  {
+    "id": 31,
+    "raw_text": "Can you confirm whether the national highway bridge at Morigaon is open for light vehicles tomorrow morning?",
+    "language": "en",
+    "true_urgency": "low",
+    "true_need": "other",
+    "true_people_count": 1,
+    "true_vulnerable": [],
+    "true_location": "Morigaon"
+  },
+  {
+    "id": 32,
+    "raw_text": "क्या आज रात जगीरोड में बारिश कम होने का अनुमान है? हमारे घर के बाहर 6 इंच पानी है।",
+    "language": "hi",
+    "true_urgency": "low",
+    "true_need": "other",
+    "true_people_count": 1,
+    "true_vulnerable": [],
+    "true_location": "Jagiroad"
+  },
+  {
+    "id": 33,
+    "raw_text": "Electricity pole fell near Laharighat market, no power since morning. Power department ko inform karein please.",
+    "language": "hinglish",
+    "true_urgency": "low",
+    "true_need": "other",
+    "true_people_count": 1,
+    "true_vulnerable": [],
+    "true_location": "Laharighat"
+  },
+  {
+    "id": 34,
+    "raw_text": "Want to know helpline number for district relief coordinator in Dhemaji.",
+    "language": "en",
+    "true_urgency": "low",
+    "true_need": "other",
+    "true_people_count": 1,
+    "true_vulnerable": [],
+    "true_location": "Dhemaji"
+  },
+  {
+    "id": 35,
+    "raw_text": "बाढ़ राहत सामग्री का वितरण किस समय होगा? भूरगांव सेंटर की जानकारी चाहिए।",
+    "language": "hi",
+    "true_urgency": "low",
+    "true_need": "other",
+    "true_people_count": 1,
+    "true_vulnerable": [],
+    "true_location": "Bhuragaon"
+  },
+  {
+    "id": 36,
+    "raw_text": "मदद करो! भूरगांव में पानी गले तक पहुंच गया है। 6 लोग छत पर हैं। 2 बच्चे और बुजुर्ग हैं, नाव भेजो जल्दी! (Ref #36)",
+    "language": "hi",
+    "true_urgency": "critical",
+    "true_need": "rescue",
+    "true_people_count": 6,
+    "true_vulnerable": [
+      "children",
+      "elderly"
+    ],
+    "true_location": "Bhuragaon"
+  },
+  {
+    "id": 37,
+    "raw_text": "Mayong village mein pani chhat tak aa gaya hai. 4 log fase hain, doob rahe hain, please rescue boat urgently! (Ref #37)",
+    "language": "hinglish",
+    "true_urgency": "critical",
+    "true_need": "rescue",
+    "true_people_count": 4,
+    "true_vulnerable": [],
+    "true_location": "Mayong"
+  },
+  {
+    "id": 38,
+    "raw_text": "EMERGENCY: House sinking near Laharighat river bank! 5 family members trapped on rooftop including pregnant woman. Send NDRF boat immediately! (Ref #38)",
+    "language": "en",
+    "true_urgency": "critical",
+    "true_need": "rescue",
+    "true_people_count": 5,
+    "true_vulnerable": [
+      "pregnant"
+    ],
+    "true_location": "Laharighat"
+  },
+  {
+    "id": 39,
+    "raw_text": "पानी का स्तर बहुत बढ़ गया है, मोरीगांव मेन रोड पर 8 लोग बहने वाले हैं, जान का खतरा है, बचाओ! (Ref #39)",
+    "language": "hi",
+    "true_urgency": "critical",
+    "true_need": "rescue",
+    "true_people_count": 8,
+    "true_vulnerable": [],
+    "true_location": "Morigaon"
+  },
+  {
+    "id": 40,
+    "raw_text": "Gale tak pani bhar chuka hai ghar ke andar. 3 log dub rahe hain Dharamtul ke paas, immediate rescue needed! (Ref #40)",
+    "language": "hinglish",
+    "true_urgency": "critical",
+    "true_need": "rescue",
+    "true_people_count": 3,
+    "true_vulnerable": [],
+    "true_location": "Dharamtul"
+  },
+  {
+    "id": 41,
+    "raw_text": "धमधा में बाढ़ के पानी में 1 व्यक्ति को सांप ने काट लिया है, अत्यधिक ब्लीडिंग हो रही है, डॉक्टर या एंबुलेंस भेजो! (Ref #41)",
+    "language": "hi",
+    "true_urgency": "critical",
+    "true_need": "medical",
+    "true_people_count": 1,
+    "true_vulnerable": [],
+    "true_location": "Dhamdha"
+  },
+  {
+    "id": 42,
+    "raw_text": "Elderly patient having severe heart attack symptoms surrounded by 4ft water in Silchar hospital road. Doctor needed urgently! (Ref #42)",
+    "language": "en",
+    "true_urgency": "critical",
+    "true_need": "medical",
+    "true_people_count": 1,
+    "true_vulnerable": [
+      "elderly"
+    ],
+    "true_location": "Silchar"
+  },
+  {
+    "id": 43,
+    "raw_text": "Dhemaji me ek pregnant aurat ko labor pain shuru ho gaya hai. Charo taraf flood water hai. Ambulance boat chahiye turant! (Ref #43)",
+    "language": "hinglish",
+    "true_urgency": "critical",
+    "true_need": "medical",
+    "true_people_count": 2,
+    "true_vulnerable": [
+      "pregnant"
+    ],
+    "true_location": "Dhemaji"
+  },
+  {
+    "id": 44,
+    "raw_text": "Alappuzha kuttanad area: infant baby having high 104 fever and convulsions, no medicines available, road cut off by flood. (Ref #44)",
+    "language": "en",
+    "true_urgency": "critical",
+    "true_need": "medical",
+    "true_people_count": 2,
+    "true_vulnerable": [
+      "children"
+    ],
+    "true_location": "Alappuzha"
+  },
+  {
+    "id": 45,
+    "raw_text": "दानापुर में बाढ़ में फंसे बुजुर्ग को सांस लेने में भारी तकलीफ है, ऑक्सीजन सिलेंडर खत्म हो रहा है, तुरंत मेडिकल मदद! (Ref #45)",
+    "language": "hi",
+    "true_urgency": "critical",
+    "true_need": "medical",
+    "true_people_count": 1,
+    "true_vulnerable": [
+      "elderly"
+    ],
+    "true_location": "Danapur"
+  },
+  {
+    "id": 46,
+    "raw_text": "हम 7 लोग लहरिघाट स्कूल में पानी से घिरे हुए हैं। चारों तरफ 3 फीट पानी है। सुरक्षित जगह निकालने में मदद करें। (Ref #46)",
+    "language": "hi",
+    "true_urgency": "high",
+    "true_need": "rescue",
+    "true_people_count": 7,
+    "true_vulnerable": [],
+    "true_location": "Laharighat"
+  },
+  {
+    "id": 47,
+    "raw_text": "Water entered our ground floor in Nagaon. 5 people stranded on second floor. Water still rising slowly, need evacuation support. (Ref #47)",
+    "language": "en",
+    "true_urgency": "high",
+    "true_need": "rescue",
+    "true_people_count": 5,
+    "true_vulnerable": [],
+    "true_location": "Nagaon"
+  },
+  {
+    "id": 48,
+    "raw_text": "Jagiroad bypass ke pas 10 log phas gaye hain car mein. Road block ho gaya hai flood water se, evacuation boat bhejiye. (Ref #48)",
+    "language": "hinglish",
+    "true_urgency": "high",
+    "true_need": "rescue",
+    "true_people_count": 10,
+    "true_vulnerable": [],
+    "true_location": "Jagiroad"
+  },
+  {
+    "id": 49,
+    "raw_text": "बोरबोरी गांव में 4 परिवार फंसे हैं, लगभग 12 लोग। रास्ता कट गया है, बोट से रेस्क्यू की जरूरत है। (Ref #49)",
+    "language": "hi",
+    "true_urgency": "high",
+    "true_need": "rescue",
+    "true_people_count": 12,
+    "true_vulnerable": [],
+    "true_location": "Borbori"
+  },
+  {
+    "id": 50,
+    "raw_text": "Flooding in Koliabor village. 6 villagers including 2 disabled elderly unable to walk out. Need rescue team with stretcher. (Ref #50)",
+    "language": "en",
+    "true_urgency": "high",
+    "true_need": "rescue",
+    "true_people_count": 6,
+    "true_vulnerable": [
+      "disabled",
+      "elderly"
+    ],
+    "true_location": "Koliabor"
+  },
+  {
+    "id": 51,
+    "raw_text": "Patna city bypass: 3 injured after tin roof collapsed due to heavy storm and flood. Need first aid kit and bandage. (Ref #51)",
+    "language": "en",
+    "true_urgency": "high",
+    "true_need": "medical",
+    "true_people_count": 3,
+    "true_vulnerable": [],
+    "true_location": "Patna"
+  },
+  {
+    "id": 52,
+    "raw_text": "हमारे राहत शिविर मोरीगांव में 15 बच्चों को तेज डायरिया और उल्टी हो रही है। ओआरएस और डॉक्टर की टीम भेजें। (Ref #52)",
+    "language": "hi",
+    "true_urgency": "high",
+    "true_need": "medical",
+    "true_people_count": 15,
+    "true_vulnerable": [
+      "children"
+    ],
+    "true_location": "Morigaon"
+  },
+  {
+    "id": 53,
+    "raw_text": "Ghogamukh primary health centre inundated. 4 dialysis patients need transfer to district hospital urgently. (Ref #53)",
+    "language": "en",
+    "true_urgency": "high",
+    "true_need": "medical",
+    "true_people_count": 4,
+    "true_vulnerable": [],
+    "true_location": "Ghogamukh"
+  },
+  {
+    "id": 54,
+    "raw_text": "Chhatarpur area mein diabetic patient ki insulin khatam ho gayi hai. 2 days se trapped hain, medicines deliver kijiye. (Ref #54)",
+    "language": "hinglish",
+    "true_urgency": "high",
+    "true_need": "medical",
+    "true_people_count": 1,
+    "true_vulnerable": [],
+    "true_location": "Chhatarpur"
+  },
+  {
+    "id": 55,
+    "raw_text": "कटिहार रेलवे कॉलोनी में 5 लोग पानी में पैर कटने से घायल हैं। टिटनेस इंजेक्शन और दवाई की आवश्यकता है। (Ref #55)",
+    "language": "hi",
+    "true_urgency": "high",
+    "true_need": "medical",
+    "true_people_count": 5,
+    "true_vulnerable": [],
+    "true_location": "Katihar"
+  },
+  {
+    "id": 56,
+    "raw_text": "बिल्कुल सूखा राशन नहीं बचा है। जगीरोड में 10 मजदूर 2 दिन से भूखे हैं। पीने का पानी भी नहीं है। (Ref #56)",
+    "language": "hi",
+    "true_urgency": "medium",
+    "true_need": "food",
+    "true_people_count": 10,
+    "true_vulnerable": [],
+    "true_location": "Jagiroad"
+  },
+  {
+    "id": 57,
+    "raw_text": "Mayong relief camp: drinking water contaminated with flood silt. 25 people need clean drinking water bottles and dry biscuits. (Ref #57)",
+    "language": "en",
+    "true_urgency": "medium",
+    "true_need": "food",
+    "true_people_count": 25,
+    "true_vulnerable": [],
+    "true_location": "Mayong"
+  },
+  {
+    "id": 58,
+    "raw_text": "Morigaon ward 3 mein 8 log hain, khana pani sab doob gaya hai. Ration packets distribute karwayiye please. (Ref #58)",
+    "language": "hinglish",
+    "true_urgency": "medium",
+    "true_need": "food",
+    "true_people_count": 8,
+    "true_vulnerable": [],
+    "true_location": "Morigaon"
+  },
+  {
+    "id": 59,
+    "raw_text": "Dhemaji railway station shelter: 40 displaced flood victims need baby milk powder and rice packets for dinner. (Ref #59)",
+    "language": "en",
+    "true_urgency": "medium",
+    "true_need": "food",
+    "true_people_count": 40,
+    "true_vulnerable": [
+      "children"
+    ],
+    "true_location": "Dhemaji"
+  },
+  {
+    "id": 60,
+    "raw_text": "लहरिघाट पंचायत भवन में 18 लोग ठहरे हुए हैं, भोजन की व्यवस्था नहीं है। कृपया भोजन के पैकेट भिजवाएं। (Ref #60)",
+    "language": "hi",
+    "true_urgency": "medium",
+    "true_need": "food",
+    "true_people_count": 18,
+    "true_vulnerable": [],
+    "true_location": "Laharighat"
+  },
+  {
+    "id": 61,
+    "raw_text": "हमारा कच्चा घर ढह गया है। भूरगांव तटबंध पर 6 लोग खुले आसमान में तिरपाल लगाकर रह रहे हैं। तंबू या शेल्टर चाहिए। (Ref #61)",
+    "language": "hi",
+    "true_urgency": "medium",
+    "true_need": "shelter",
+    "true_people_count": 6,
+    "true_vulnerable": [],
+    "true_location": "Bhuragaon"
+  },
+  {
+    "id": 62,
+    "raw_text": "Silchar Tarapur: 4 families house submerged up to waist. Need temporary shelter in nearby high school. (Ref #62)",
+    "language": "en",
+    "true_urgency": "medium",
+    "true_need": "shelter",
+    "true_people_count": 14,
+    "true_vulnerable": [],
+    "true_location": "Silchar"
+  },
+  {
+    "id": 63,
+    "raw_text": "Ghar pura flood water me chala gaya. 5 log highway side tent bana kar reh rahe hain. Tarpaulin and blankets needed urgently. (Ref #63)",
+    "language": "hinglish",
+    "true_urgency": "medium",
+    "true_need": "shelter",
+    "true_people_count": 5,
+    "true_vulnerable": [],
+    "true_location": "Highway"
+  },
+  {
+    "id": 64,
+    "raw_text": "Muzaffarpur river side: 20 farm workers lost huts in flash flood. Need emergency relief camp accommodation. (Ref #64)",
+    "language": "en",
+    "true_urgency": "medium",
+    "true_need": "shelter",
+    "true_people_count": 20,
+    "true_vulnerable": [],
+    "true_location": "Muzaffarpur"
+  },
+  {
+    "id": 65,
+    "raw_text": "धमधा कैंप में जगह नहीं है। 8 लोग और आ गए हैं, अतिरिक्त शेल्टर या टेंट की व्यवस्था करें। (Ref #65)",
+    "language": "hi",
+    "true_urgency": "medium",
+    "true_need": "shelter",
+    "true_people_count": 8,
+    "true_vulnerable": [],
+    "true_location": "Dhamdha"
+  },
+  {
+    "id": 66,
+    "raw_text": "Can you confirm whether the national highway bridge at Morigaon is open for light vehicles tomorrow morning? (Ref #66)",
+    "language": "en",
+    "true_urgency": "low",
+    "true_need": "other",
+    "true_people_count": 1,
+    "true_vulnerable": [],
+    "true_location": "Morigaon"
+  },
+  {
+    "id": 67,
+    "raw_text": "क्या आज रात जगीरोड में बारिश कम होने का अनुमान है? हमारे घर के बाहर 6 इंच पानी है। (Ref #67)",
+    "language": "hi",
+    "true_urgency": "low",
+    "true_need": "other",
+    "true_people_count": 1,
+    "true_vulnerable": [],
+    "true_location": "Jagiroad"
+  },
+  {
+    "id": 68,
+    "raw_text": "Electricity pole fell near Laharighat market, no power since morning. Power department ko inform karein please. (Ref #68)",
+    "language": "hinglish",
+    "true_urgency": "low",
+    "true_need": "other",
+    "true_people_count": 1,
+    "true_vulnerable": [],
+    "true_location": "Laharighat"
+  },
+  {
+    "id": 69,
+    "raw_text": "Want to know helpline number for district relief coordinator in Dhemaji. (Ref #69)",
+    "language": "en",
+    "true_urgency": "low",
+    "true_need": "other",
+    "true_people_count": 1,
+    "true_vulnerable": [],
+    "true_location": "Dhemaji"
+  },
+  {
+    "id": 70,
+    "raw_text": "बाढ़ राहत सामग्री का वितरण किस समय होगा? भूरगांव सेंटर की जानकारी चाहिए। (Ref #70)",
+    "language": "hi",
+    "true_urgency": "low",
+    "true_need": "other",
+    "true_people_count": 1,
+    "true_vulnerable": [],
+    "true_location": "Bhuragaon"
+  },
+  {
+    "id": 71,
+    "raw_text": "मदद करो! भूरगांव में पानी गले तक पहुंच गया है। 6 लोग छत पर हैं। 2 बच्चे और बुजुर्ग हैं, नाव भेजो जल्दी! (Ref #71)",
+    "language": "hi",
+    "true_urgency": "critical",
+    "true_need": "rescue",
+    "true_people_count": 6,
+    "true_vulnerable": [
+      "children",
+      "elderly"
+    ],
+    "true_location": "Bhuragaon"
+  },
+  {
+    "id": 72,
+    "raw_text": "Mayong village mein pani chhat tak aa gaya hai. 4 log fase hain, doob rahe hain, please rescue boat urgently! (Ref #72)",
+    "language": "hinglish",
+    "true_urgency": "critical",
+    "true_need": "rescue",
+    "true_people_count": 4,
+    "true_vulnerable": [],
+    "true_location": "Mayong"
+  },
+  {
+    "id": 73,
+    "raw_text": "EMERGENCY: House sinking near Laharighat river bank! 5 family members trapped on rooftop including pregnant woman. Send NDRF boat immediately! (Ref #73)",
+    "language": "en",
+    "true_urgency": "critical",
+    "true_need": "rescue",
+    "true_people_count": 5,
+    "true_vulnerable": [
+      "pregnant"
+    ],
+    "true_location": "Laharighat"
+  },
+  {
+    "id": 74,
+    "raw_text": "पानी का स्तर बहुत बढ़ गया है, मोरीगांव मेन रोड पर 8 लोग बहने वाले हैं, जान का खतरा है, बचाओ! (Ref #74)",
+    "language": "hi",
+    "true_urgency": "critical",
+    "true_need": "rescue",
+    "true_people_count": 8,
+    "true_vulnerable": [],
+    "true_location": "Morigaon"
+  },
+  {
+    "id": 75,
+    "raw_text": "Gale tak pani bhar chuka hai ghar ke andar. 3 log dub rahe hain Dharamtul ke paas, immediate rescue needed! (Ref #75)",
+    "language": "hinglish",
+    "true_urgency": "critical",
+    "true_need": "rescue",
+    "true_people_count": 3,
+    "true_vulnerable": [],
+    "true_location": "Dharamtul"
+  },
+  {
+    "id": 76,
+    "raw_text": "धमधा में बाढ़ के पानी में 1 व्यक्ति को सांप ने काट लिया है, अत्यधिक ब्लीडिंग हो रही है, डॉक्टर या एंबुलेंस भेजो! (Ref #76)",
+    "language": "hi",
+    "true_urgency": "critical",
+    "true_need": "medical",
+    "true_people_count": 1,
+    "true_vulnerable": [],
+    "true_location": "Dhamdha"
+  },
+  {
+    "id": 77,
+    "raw_text": "Elderly patient having severe heart attack symptoms surrounded by 4ft water in Silchar hospital road. Doctor needed urgently! (Ref #77)",
+    "language": "en",
+    "true_urgency": "critical",
+    "true_need": "medical",
+    "true_people_count": 1,
+    "true_vulnerable": [
+      "elderly"
+    ],
+    "true_location": "Silchar"
+  },
+  {
+    "id": 78,
+    "raw_text": "Dhemaji me ek pregnant aurat ko labor pain shuru ho gaya hai. Charo taraf flood water hai. Ambulance boat chahiye turant! (Ref #78)",
+    "language": "hinglish",
+    "true_urgency": "critical",
+    "true_need": "medical",
+    "true_people_count": 2,
+    "true_vulnerable": [
+      "pregnant"
+    ],
+    "true_location": "Dhemaji"
+  },
+  {
+    "id": 79,
+    "raw_text": "Alappuzha kuttanad area: infant baby having high 104 fever and convulsions, no medicines available, road cut off by flood. (Ref #79)",
+    "language": "en",
+    "true_urgency": "critical",
+    "true_need": "medical",
+    "true_people_count": 2,
+    "true_vulnerable": [
+      "children"
+    ],
+    "true_location": "Alappuzha"
+  },
+  {
+    "id": 80,
+    "raw_text": "दानापुर में बाढ़ में फंसे बुजुर्ग को सांस लेने में भारी तकलीफ है, ऑक्सीजन सिलेंडर खत्म हो रहा है, तुरंत मेडिकल मदद! (Ref #80)",
+    "language": "hi",
+    "true_urgency": "critical",
+    "true_need": "medical",
+    "true_people_count": 1,
+    "true_vulnerable": [
+      "elderly"
+    ],
+    "true_location": "Danapur"
+  },
+  {
+    "id": 81,
+    "raw_text": "हम 7 लोग लहरिघाट स्कूल में पानी से घिरे हुए हैं। चारों तरफ 3 फीट पानी है। सुरक्षित जगह निकालने में मदद करें। (Ref #81)",
+    "language": "hi",
+    "true_urgency": "high",
+    "true_need": "rescue",
+    "true_people_count": 7,
+    "true_vulnerable": [],
+    "true_location": "Laharighat"
+  },
+  {
+    "id": 82,
+    "raw_text": "Water entered our ground floor in Nagaon. 5 people stranded on second floor. Water still rising slowly, need evacuation support. (Ref #82)",
+    "language": "en",
+    "true_urgency": "high",
+    "true_need": "rescue",
+    "true_people_count": 5,
+    "true_vulnerable": [],
+    "true_location": "Nagaon"
+  },
+  {
+    "id": 83,
+    "raw_text": "Jagiroad bypass ke pas 10 log phas gaye hain car mein. Road block ho gaya hai flood water se, evacuation boat bhejiye. (Ref #83)",
+    "language": "hinglish",
+    "true_urgency": "high",
+    "true_need": "rescue",
+    "true_people_count": 10,
+    "true_vulnerable": [],
+    "true_location": "Jagiroad"
+  },
+  {
+    "id": 84,
+    "raw_text": "बोरबोरी गांव में 4 परिवार फंसे हैं, लगभग 12 लोग। रास्ता कट गया है, बोट से रेस्क्यू की जरूरत है। (Ref #84)",
+    "language": "hi",
+    "true_urgency": "high",
+    "true_need": "rescue",
+    "true_people_count": 12,
+    "true_vulnerable": [],
+    "true_location": "Borbori"
+  },
+  {
+    "id": 85,
+    "raw_text": "Flooding in Koliabor village. 6 villagers including 2 disabled elderly unable to walk out. Need rescue team with stretcher. (Ref #85)",
+    "language": "en",
+    "true_urgency": "high",
+    "true_need": "rescue",
+    "true_people_count": 6,
+    "true_vulnerable": [
+      "disabled",
+      "elderly"
+    ],
+    "true_location": "Koliabor"
+  },
+  {
+    "id": 86,
+    "raw_text": "Patna city bypass: 3 injured after tin roof collapsed due to heavy storm and flood. Need first aid kit and bandage. (Ref #86)",
+    "language": "en",
+    "true_urgency": "high",
+    "true_need": "medical",
+    "true_people_count": 3,
+    "true_vulnerable": [],
+    "true_location": "Patna"
+  },
+  {
+    "id": 87,
+    "raw_text": "हमारे राहत शिविर मोरीगांव में 15 बच्चों को तेज डायरिया और उल्टी हो रही है। ओआरएस और डॉक्टर की टीम भेजें। (Ref #87)",
+    "language": "hi",
+    "true_urgency": "high",
+    "true_need": "medical",
+    "true_people_count": 15,
+    "true_vulnerable": [
+      "children"
+    ],
+    "true_location": "Morigaon"
+  },
+  {
+    "id": 88,
+    "raw_text": "Ghogamukh primary health centre inundated. 4 dialysis patients need transfer to district hospital urgently. (Ref #88)",
+    "language": "en",
+    "true_urgency": "high",
+    "true_need": "medical",
+    "true_people_count": 4,
+    "true_vulnerable": [],
+    "true_location": "Ghogamukh"
+  },
+  {
+    "id": 89,
+    "raw_text": "Chhatarpur area mein diabetic patient ki insulin khatam ho gayi hai. 2 days se trapped hain, medicines deliver kijiye. (Ref #89)",
+    "language": "hinglish",
+    "true_urgency": "high",
+    "true_need": "medical",
+    "true_people_count": 1,
+    "true_vulnerable": [],
+    "true_location": "Chhatarpur"
+  },
+  {
+    "id": 90,
+    "raw_text": "कटिहार रेलवे कॉलोनी में 5 लोग पानी में पैर कटने से घायल हैं। टिटनेस इंजेक्शन और दवाई की आवश्यकता है। (Ref #90)",
+    "language": "hi",
+    "true_urgency": "high",
+    "true_need": "medical",
+    "true_people_count": 5,
+    "true_vulnerable": [],
+    "true_location": "Katihar"
+  },
+  {
+    "id": 91,
+    "raw_text": "बिल्कुल सूखा राशन नहीं बचा है। जगीरोड में 10 मजदूर 2 दिन से भूखे हैं। पीने का पानी भी नहीं है। (Ref #91)",
+    "language": "hi",
+    "true_urgency": "medium",
+    "true_need": "food",
+    "true_people_count": 10,
+    "true_vulnerable": [],
+    "true_location": "Jagiroad"
+  },
+  {
+    "id": 92,
+    "raw_text": "Mayong relief camp: drinking water contaminated with flood silt. 25 people need clean drinking water bottles and dry biscuits. (Ref #92)",
+    "language": "en",
+    "true_urgency": "medium",
+    "true_need": "food",
+    "true_people_count": 25,
+    "true_vulnerable": [],
+    "true_location": "Mayong"
+  },
+  {
+    "id": 93,
+    "raw_text": "Morigaon ward 3 mein 8 log hain, khana pani sab doob gaya hai. Ration packets distribute karwayiye please. (Ref #93)",
+    "language": "hinglish",
+    "true_urgency": "medium",
+    "true_need": "food",
+    "true_people_count": 8,
+    "true_vulnerable": [],
+    "true_location": "Morigaon"
+  },
+  {
+    "id": 94,
+    "raw_text": "Dhemaji railway station shelter: 40 displaced flood victims need baby milk powder and rice packets for dinner. (Ref #94)",
+    "language": "en",
+    "true_urgency": "medium",
+    "true_need": "food",
+    "true_people_count": 40,
+    "true_vulnerable": [
+      "children"
+    ],
+    "true_location": "Dhemaji"
+  },
+  {
+    "id": 95,
+    "raw_text": "लहरिघाट पंचायत भवन में 18 लोग ठहरे हुए हैं, भोजन की व्यवस्था नहीं है। कृपया भोजन के पैकेट भिजवाएं। (Ref #95)",
+    "language": "hi",
+    "true_urgency": "medium",
+    "true_need": "food",
+    "true_people_count": 18,
+    "true_vulnerable": [],
+    "true_location": "Laharighat"
+  },
+  {
+    "id": 96,
+    "raw_text": "हमारा कच्चा घर ढह गया है। भूरगांव तटबंध पर 6 लोग खुले आसमान में तिरपाल लगाकर रह रहे हैं। तंबू या शेल्टर चाहिए। (Ref #96)",
+    "language": "hi",
+    "true_urgency": "medium",
+    "true_need": "shelter",
+    "true_people_count": 6,
+    "true_vulnerable": [],
+    "true_location": "Bhuragaon"
+  },
+  {
+    "id": 97,
+    "raw_text": "Silchar Tarapur: 4 families house submerged up to waist. Need temporary shelter in nearby high school. (Ref #97)",
+    "language": "en",
+    "true_urgency": "medium",
+    "true_need": "shelter",
+    "true_people_count": 14,
+    "true_vulnerable": [],
+    "true_location": "Silchar"
+  },
+  {
+    "id": 98,
+    "raw_text": "Ghar pura flood water me chala gaya. 5 log highway side tent bana kar reh rahe hain. Tarpaulin and blankets needed urgently. (Ref #98)",
+    "language": "hinglish",
+    "true_urgency": "medium",
+    "true_need": "shelter",
+    "true_people_count": 5,
+    "true_vulnerable": [],
+    "true_location": "Highway"
+  },
+  {
+    "id": 99,
+    "raw_text": "Muzaffarpur river side: 20 farm workers lost huts in flash flood. Need emergency relief camp accommodation. (Ref #99)",
+    "language": "en",
+    "true_urgency": "medium",
+    "true_need": "shelter",
+    "true_people_count": 20,
+    "true_vulnerable": [],
+    "true_location": "Muzaffarpur"
+  },
+  {
+    "id": 100,
+    "raw_text": "धमधा कैंप में जगह नहीं है। 8 लोग और आ गए हैं, अतिरिक्त शेल्टर या टेंट की व्यवस्था करें। (Ref #100)",
+    "language": "hi",
+    "true_urgency": "medium",
+    "true_need": "shelter",
+    "true_people_count": 8,
+    "true_vulnerable": [],
+    "true_location": "Dhamdha"
+  }
+]

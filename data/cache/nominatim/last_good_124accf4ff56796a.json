@@ -1,0 +1,27 @@
+{
+  "timestamp": 1792418147.6643016,
+  "fetched_at": "2026-10-19T13:55:47.664304+00:00",
+  "payload": [
+    {
+      "place_id": 243006974,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 16513571,
+      "lat": "24.1363230",
+      "lon": "81.8990280",
+      "class": "boundary",
+      "type": "administrative",
+      "place_rank": 18,
+      "importance": 0.16004000076295108,
+      "addresstype": "city_district",
+      "name": "Katai",
+      "display_name": "Katai, Sarai Tahsil, Singrauli, Madhya Pradesh, India",
+      "boundingbox": [
+        "24.1154665",
+        "24.1572210",
+        "81.8778826",
+        "81.9148337"
+      ]
+    }
+  ]
+}

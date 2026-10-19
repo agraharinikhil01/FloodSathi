@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alert xmlns="urn:oasis:names:tc:emergency:cap:1.2">
+  <identifier>SACHET-AS-2026-FL-0002</identifier>
+  <sender>ndma.gov.in</sender>
+  <sent>2026-10-19T06:15:00+05:30</sent>
+  <status>Actual</status>
+  <msgType>Alert</msgType>
+  <scope>Public</scope>
+  <info>
+    <category>Met</category>
+    <event>Flash Flood &amp; River Surge</event>
+    <urgency>Expected</urgency>
+    <severity>Severe</severity>
+    <certainty>Likely</certainty>
+    <effective>2026-10-19T06:15:00+05:30</effective>
+    <expires>2026-10-21T12:00:00+05:30</expires>
+    <headline>Flash Flood Warning for Dhubri District</headline>
+    <description>Substantial water discharge from upstream catchment affecting riverine circles of Dhubri.</description>
+    <instruction>Avoid low bridges and river banks.</instruction>
+    <area>
+      <areaDesc>Dhubri, Assam</areaDesc>
+    </area>
+  </info>
+</alert>

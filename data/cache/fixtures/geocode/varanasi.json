@@ -1,0 +1,19 @@
+{
+  "results": [
+    {
+      "name": "Varanasi",
+      "display_name": "Varanasi, Uttar Pradesh, India",
+      "lat": 25.3176,
+      "lon": 82.9739,
+      "type": "city",
+      "bbox": {
+        "lon1": 25.27,
+        "lat1": 82.93,
+        "lon2": 25.36,
+        "lat2": 83.02
+      },
+      "source": "geoapify",
+      "confidence": "medium"
+    }
+  ]
+}

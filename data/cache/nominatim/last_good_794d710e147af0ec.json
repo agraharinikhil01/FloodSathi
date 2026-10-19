@@ -1,0 +1,99 @@
+{
+  "timestamp": 1792420012.1178439,
+  "fetched_at": "2026-10-19T14:26:52.117845+00:00",
+  "payload": [
+    {
+      "place_id": 242003002,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 11808052074,
+      "lat": "26.7751208",
+      "lon": "83.0542400",
+      "class": "railway",
+      "type": "station",
+      "place_rank": 30,
+      "importance": 0.3626429788867404,
+      "addresstype": "railway",
+      "name": "Khalilabad",
+      "display_name": "Khalilabad, NH27, Khalilabad, Sant Kabir Nagar, Uttar Pradesh, 272175, India",
+      "address": {
+        "railway": "Khalilabad",
+        "road": "NH27",
+        "village": "Khalilabad",
+        "county": "Khalilabad",
+        "state_district": "Sant Kabir Nagar",
+        "state": "Uttar Pradesh",
+        "ISO3166-2-lvl4": "IN-UP",
+        "postcode": "272175",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "26.7701208",
+        "26.7801208",
+        "83.0492400",
+        "83.0592400"
+      ]
+    },
+    {
+      "place_id": 242016012,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 10034275,
+      "lat": "26.7994531",
+      "lon": "82.9926160",
+      "class": "boundary",
+      "type": "administrative",
+      "place_rank": 12,
+      "importance": 0.24000999999999997,
+      "addresstype": "county",
+      "name": "Khalilabad",
+      "display_name": "Khalilabad, Sant Kabir Nagar, Uttar Pradesh, India",
+      "address": {
+        "county": "Khalilabad",
+        "state_district": "Sant Kabir Nagar",
+        "state": "Uttar Pradesh",
+        "ISO3166-2-lvl4": "IN-UP",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "26.6427791",
+        "26.9561583",
+        "82.8224201",
+        "83.1677484"
+      ]
+    },
+    {
+      "place_id": 242002893,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 2405358188,
+      "lat": "26.7725573",
+      "lon": "83.0691401",
+      "class": "place",
+      "type": "village",
+      "place_rank": 19,
+      "importance": 0.14670666742961772,
+      "addresstype": "village",
+      "name": "Khalilabad",
+      "display_name": "Khalilabad, Sant Kabir Nagar, Uttar Pradesh, 272175, India",
+      "address": {
+        "village": "Khalilabad",
+        "county": "Khalilabad",
+        "state_district": "Sant Kabir Nagar",
+        "state": "Uttar Pradesh",
+        "ISO3166-2-lvl4": "IN-UP",
+        "postcode": "272175",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "26.7525573",
+        "26.7925573",
+        "83.0491401",
+        "83.0891401"
+      ]
+    }
+  ]
+}

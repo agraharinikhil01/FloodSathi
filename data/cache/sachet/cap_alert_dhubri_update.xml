@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alert xmlns="urn:oasis:names:tc:emergency:cap:1.2">
+  <identifier>SACHET-AS-2026-FL-0043</identifier>
+  <sender>ndma.gov.in</sender>
+  <sent>2026-10-19T06:10:00+05:30</sent>
+  <status>Actual</status>
+  <msgType>Update</msgType>
+  <scope>Public</scope>
+  <references>ndma.gov.in,SACHET-AS-2026-FL-0038,2026-10-18T18:00:00+05:30</references>
+  <info>
+    <category>Met</category>
+    <event>Heavy Monsoon Rainfall and Flash Floods</event>
+    <urgency>Expected</urgency>
+    <severity>Moderate</severity>
+    <certainty>Likely</certainty>
+    <effective>2026-10-19T06:10:00+05:30</effective>
+    <expires>2026-10-21T12:00:00+05:30</expires>
+    <headline>Updated Flood Watch for Dhubri District</headline>
+    <description>Moderate to heavy rain continues across Dhubri and Goalpara border regions. Water accumulation in low-lying riverside agricultural tracts.</description>
+    <instruction>Keep emergency provisions and emergency contacts ready. Fishermen advised not to venture into swollen rivers.</instruction>
+    <area>
+      <areaDesc>Dhubri, Assam</areaDesc>
+      <circle>26.02,89.98,20.0</circle>
+    </area>
+  </info>
+</alert>

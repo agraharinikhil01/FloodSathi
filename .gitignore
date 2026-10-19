@@ -1,0 +1,64 @@
+# ── Secrets (NEVER commit these) ──────────────────────────
+.env
+*.key
+*.pem
+
+# ── Database ───────────────────────────────────────────────
+*.db
+*.db-shm
+*.db-wal
+
+# ── Python ─────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ── Virtual environments ───────────────────────────────────
+.venv/
+venv/
+env/
+ENV/
+
+# ── Frontend & Node ─────────────────────────────────────────
+node_modules/
+frontend/node_modules/
+frontend/dist/
+.vite/
+
+
+# ── Cache files (regenerated automatically) ────────────────
+data/cache/*.json
+
+# ── Streamlit ──────────────────────────────────────────────
+.streamlit/secrets.toml
+
+# ── Testing ────────────────────────────────────────────────
+.pytest_cache/
+.coverage
+htmlcov/
+.benchmarks/
+
+# ── Editors ────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ── OS ─────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── Logs ───────────────────────────────────────────────────
+*.log
+logs/
+
+# ── Demo artifacts ─────────────────────────────────────────
+demo.gif
+*.mp4

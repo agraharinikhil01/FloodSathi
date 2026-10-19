@@ -1,0 +1,161 @@
+{
+  "timestamp": 1792420000.8330843,
+  "fetched_at": "2026-10-19T14:26:40.833090+00:00",
+  "payload": [
+    {
+      "place_id": 244568045,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 4961308350,
+      "lat": "22.0062137",
+      "lon": "76.4778113",
+      "class": "railway",
+      "type": "station",
+      "place_rank": 30,
+      "importance": 0.34008951795700365,
+      "addresstype": "railway",
+      "name": "Khaigaon",
+      "display_name": "Khaigaon, SH70, Khaygaon, Punasa Tahsil, Khandwa, Madhya Pradesh, 450991, India",
+      "address": {
+        "railway": "Khaigaon",
+        "road": "SH70",
+        "city_district": "Khaygaon",
+        "village": "Khaygaon",
+        "county": "Punasa Tahsil",
+        "state_district": "Khandwa",
+        "state": "Madhya Pradesh",
+        "ISO3166-2-lvl4": "IN-MP",
+        "postcode": "450991",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "22.0012137",
+        "22.0112137",
+        "76.4728113",
+        "76.4828113"
+      ]
+    },
+    {
+      "place_id": 248114398,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 9250064130,
+      "lat": "23.4038578",
+      "lon": "74.4115591",
+      "class": "place",
+      "type": "village",
+      "place_rank": 19,
+      "importance": 0.14671238956282898,
+      "addresstype": "village",
+      "name": "Kha",
+      "display_name": "Kha, Bagidora Tehsil, Banswara, Rajasthan, 327604, India",
+      "address": {
+        "village": "Kha",
+        "county": "Bagidora Tehsil",
+        "state_district": "Banswara",
+        "state": "Rajasthan",
+        "ISO3166-2-lvl4": "IN-RJ",
+        "postcode": "327604",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "23.3838578",
+        "23.4238578",
+        "74.3915591",
+        "74.4315591"
+      ]
+    },
+    {
+      "place_id": 213235949,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 8916735465,
+      "lat": "33.2375344",
+      "lon": "74.3161744",
+      "class": "place",
+      "type": "hamlet",
+      "place_rank": 20,
+      "importance": 0.13336833524071104,
+      "addresstype": "hamlet",
+      "name": "kha",
+      "display_name": "kha, Rajauri, Rajouri, Jammu and Kashmir, India",
+      "address": {
+        "hamlet": "kha",
+        "county": "Rajauri",
+        "state_district": "Rajouri",
+        "state": "Jammu and Kashmir",
+        "ISO3166-2-lvl4": "IN-JK",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "33.2175344",
+        "33.2575344",
+        "74.2961744",
+        "74.3361744"
+      ]
+    },
+    {
+      "place_id": 248543237,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 6085778743,
+      "lat": "19.2298810",
+      "lon": "77.9272376",
+      "class": "place",
+      "type": "village",
+      "place_rank": 19,
+      "importance": 0.14670416800183103,
+      "addresstype": "village",
+      "name": "Khasra",
+      "display_name": "Khasra, Kubeer mandal, Nirmal, Telangana, India",
+      "address": {
+        "village": "Khasra",
+        "county": "Kubeer mandal",
+        "state_district": "Nirmal",
+        "state": "Telangana",
+        "ISO3166-2-lvl4": "IN-TS",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "19.2098810",
+        "19.2498810",
+        "77.9072376",
+        "77.9472376"
+      ]
+    },
+    {
+      "place_id": 249224760,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 7902476,
+      "lat": "12.9767936",
+      "lon": "77.5900820",
+      "class": "boundary",
+      "type": "administrative",
+      "place_rank": 14,
+      "importance": 0.6364646632219508,
+      "addresstype": "city",
+      "name": "Bengaluru",
+      "display_name": "Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, India",
+      "address": {
+        "city": "Bengaluru",
+        "county": "Bangalore North",
+        "state_district": "Bengaluru Urban",
+        "state": "Karnataka",
+        "ISO3166-2-lvl4": "IN-KA",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "12.8334905",
+        "13.1426196",
+        "77.4598797",
+        "77.7840639"
+      ]
+    }
+  ]
+}

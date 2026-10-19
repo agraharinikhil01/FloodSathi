@@ -1,0 +1,129 @@
+{
+  "timestamp": 1792419968.0428991,
+  "fetched_at": "2026-10-19T14:26:08.042902+00:00",
+  "payload": [
+    {
+      "place_id": 244303677,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 16475025,
+      "lat": "23.6802190",
+      "lon": "78.9500954",
+      "class": "boundary",
+      "type": "administrative",
+      "place_rank": 18,
+      "importance": 0.16004000076295108,
+      "addresstype": "city_district",
+      "name": "Kata",
+      "display_name": "Kata, Rehli Tahsil, Sagar, Madhya Pradesh, India",
+      "address": {
+        "city_district": "Kata",
+        "county": "Rehli Tahsil",
+        "state_district": "Sagar",
+        "state": "Madhya Pradesh",
+        "ISO3166-2-lvl4": "IN-MP",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "23.6600532",
+        "23.7003314",
+        "78.9209169",
+        "78.9789965"
+      ]
+    },
+    {
+      "place_id": 247742632,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 9979994858,
+      "lat": "20.1630664",
+      "lon": "77.1137666",
+      "class": "place",
+      "type": "village",
+      "place_rank": 19,
+      "importance": 0.14670750820172423,
+      "addresstype": "village",
+      "name": "Kata",
+      "display_name": "Kata, Washim, Maharashtra, 444505, India",
+      "address": {
+        "village": "Kata",
+        "county": "Washim",
+        "state_district": "Washim",
+        "state": "Maharashtra",
+        "ISO3166-2-lvl4": "IN-MH",
+        "postcode": "444505",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "20.1430664",
+        "20.1830664",
+        "77.0937666",
+        "77.1337666"
+      ]
+    },
+    {
+      "place_id": 428164313,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 3316912060,
+      "lat": "18.1110909",
+      "lon": "83.1399748",
+      "class": "place",
+      "type": "town",
+      "place_rank": 18,
+      "importance": 0.34188389141160974,
+      "addresstype": "town",
+      "name": "Srungavarapukota",
+      "display_name": "Srungavarapukota, Srungavarapukota Mandal, Vizianagaram District, Andhra Pradesh, 531145, India",
+      "address": {
+        "town": "Srungavarapukota",
+        "county": "Srungavarapukota Mandal",
+        "state_district": "Vizianagaram District",
+        "state": "Andhra Pradesh",
+        "ISO3166-2-lvl4": "IN-AP",
+        "postcode": "531145",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "18.0710909",
+        "18.1510909",
+        "83.0999748",
+        "83.1799748"
+      ]
+    },
+    {
+      "place_id": 419316199,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 245641165,
+      "lat": "17.5661434",
+      "lon": "82.6871809",
+      "class": "place",
+      "type": "village",
+      "place_rank": 19,
+      "importance": 0.2861574737770128,
+      "addresstype": "village",
+      "name": "Kotauratla",
+      "display_name": "Kotauratla, Kotauratla Mandal, Anakapalli District, Andhra Pradesh, 531085, India",
+      "address": {
+        "village": "Kotauratla",
+        "county": "Kotauratla Mandal",
+        "state_district": "Anakapalli District",
+        "state": "Andhra Pradesh",
+        "ISO3166-2-lvl4": "IN-AP",
+        "postcode": "531085",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "17.5461434",
+        "17.5861434",
+        "82.6671809",
+        "82.7071809"
+      ]
+    }
+  ]
+}

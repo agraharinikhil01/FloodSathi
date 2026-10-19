@@ -1,0 +1,35 @@
+{
+  "timestamp": 1792423769.2129314,
+  "results": [
+    {
+      "name": "Patna",
+      "display_name": "Patna, BR, India",
+      "lat": 25.6093239,
+      "lon": 85.1235252,
+      "type": "city",
+      "bbox": {
+        "lon1": 85.0118412,
+        "lat1": 25.5389546,
+        "lon2": 85.2641902,
+        "lat2": 25.6510479
+      },
+      "source": "geoapify",
+      "confidence": "low"
+    },
+    {
+      "name": "Patna",
+      "display_name": "Patna, India",
+      "lat": 25.4680538,
+      "lon": 85.1952852,
+      "type": "county",
+      "bbox": {
+        "lon1": 84.6869288,
+        "lat1": 25.2032601,
+        "lon2": 86.0689271,
+        "lat2": 25.7328751
+      },
+      "source": "geoapify",
+      "confidence": "low"
+    }
+  ]
+}

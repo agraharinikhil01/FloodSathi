@@ -1,0 +1,209 @@
+{
+  "timestamp": 1792420003.8341591,
+  "fetched_at": "2026-10-19T14:26:43.834161+00:00",
+  "payload": [
+    {
+      "place_id": 245567266,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 9560757421,
+      "lat": "23.7914316",
+      "lon": "77.8840971",
+      "class": "place",
+      "type": "hamlet",
+      "place_rank": 20,
+      "importance": 0.1333733340962844,
+      "addresstype": "hamlet",
+      "name": "Mudra Khalil",
+      "display_name": "Mudra Khalil, Gamakar, Gamakhar, Basoda Tahsil, Vidisha, Madhya Pradesh, India",
+      "address": {
+        "hamlet": "Mudra Khalil",
+        "city_district": "Gamakar",
+        "village": "Gamakhar",
+        "county": "Basoda Tahsil",
+        "state_district": "Vidisha",
+        "state": "Madhya Pradesh",
+        "ISO3166-2-lvl4": "IN-MP",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "23.7714316",
+        "23.8114316",
+        "77.8640971",
+        "77.9040971"
+      ]
+    },
+    {
+      "place_id": 424358667,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 14056716926,
+      "lat": "34.1061565",
+      "lon": "74.6593215",
+      "class": "place",
+      "type": "neighbourhood",
+      "place_rank": 24,
+      "importance": 0.08004000076295106,
+      "addresstype": "neighbourhood",
+      "name": "Gund I Khalil",
+      "display_name": "Gund I Khalil, Checki kawoosa, Beerwah Tehsil, Budgam, Jammu and Kashmir, 193401, India",
+      "address": {
+        "neighbourhood": "Gund I Khalil",
+        "village": "Checki kawoosa",
+        "county": "Beerwah Tehsil",
+        "state_district": "Budgam",
+        "state": "Jammu and Kashmir",
+        "ISO3166-2-lvl4": "IN-JK",
+        "postcode": "193401",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "34.0961565",
+        "34.1161565",
+        "74.6493215",
+        "74.6693215"
+      ]
+    },
+    {
+      "place_id": 250553387,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 4130960491,
+      "lat": "12.9641082",
+      "lon": "77.5504793",
+      "class": "amenity",
+      "type": "cafe",
+      "place_rank": 30,
+      "importance": 7.094453345536e-05,
+      "addresstype": "amenity",
+      "name": "Khalil Tea Hotel",
+      "display_name": "Khalil Tea Hotel, Hosahalli Main Road, Goripalya, Padarayanapura, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560026, India",
+      "address": {
+        "amenity": "Khalil Tea Hotel",
+        "road": "Hosahalli Main Road",
+        "neighbourhood": "Goripalya",
+        "suburb": "Padarayanapura",
+        "city_district": "Bengaluru Central City Corporation",
+        "city": "Bengaluru",
+        "county": "Bangalore North",
+        "state_district": "Bengaluru Urban",
+        "state": "Karnataka",
+        "ISO3166-2-lvl4": "IN-KA",
+        "postcode": "560026",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "12.9640582",
+        "12.9641582",
+        "77.5504293",
+        "77.5505293"
+      ]
+    },
+    {
+      "place_id": 247518277,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 2321159707,
+      "lat": "17.4044549",
+      "lon": "78.4492920",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 6.836270695043896e-05,
+      "addresstype": "place",
+      "name": "Gulshan-E-Khalil",
+      "display_name": "Gulshan-E-Khalil, First Lancer Road, Owaisipura, Masab Tank, Ward 74 Ahmed Nagar, Greater Hyderabad Municipal Corporation Central Zone, Hyderabad, Asif Nagar mandal, Hyderabad, Telangana, 500081, India",
+      "address": {
+        "place": "Gulshan-E-Khalil",
+        "road": "First Lancer Road",
+        "neighbourhood": "Owaisipura",
+        "suburb": "Masab Tank",
+        "city_district": "Greater Hyderabad Municipal Corporation Central Zone",
+        "city": "Hyderabad",
+        "county": "Asif Nagar mandal",
+        "state_district": "Hyderabad",
+        "state": "Telangana",
+        "ISO3166-2-lvl4": "IN-TS",
+        "postcode": "500081",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "17.4044049",
+        "17.4045049",
+        "78.4492420",
+        "78.4493420"
+      ]
+    },
+    {
+      "place_id": 241785531,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 7507287523,
+      "lat": "25.5240056",
+      "lon": "81.8628694",
+      "class": "amenity",
+      "type": "hospital",
+      "place_rank": 30,
+      "importance": 6.710536354615118e-05,
+      "addresstype": "amenity",
+      "name": "Khalil Memorial Hospital",
+      "display_name": "Khalil Memorial Hospital, NH30, Shantipuram, Phaphamau, Soraon, Prayagraj, Uttar Pradesh, 211013, India",
+      "address": {
+        "amenity": "Khalil Memorial Hospital",
+        "road": "NH30",
+        "suburb": "Shantipuram",
+        "town": "Phaphamau",
+        "county": "Soraon",
+        "state_district": "Prayagraj",
+        "state": "Uttar Pradesh",
+        "ISO3166-2-lvl4": "IN-UP",
+        "postcode": "211013",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "25.5239556",
+        "25.5240556",
+        "81.8628194",
+        "81.8629194"
+      ]
+    },
+    {
+      "place_id": 430072582,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1565733504,
+      "lat": "34.0435988",
+      "lon": "74.7832931",
+      "class": "amenity",
+      "type": "place_of_worship",
+      "place_rank": 30,
+      "importance": 6.226672770270875e-05,
+      "addresstype": "amenity",
+      "name": "Masjid Khalil",
+      "display_name": "Masjid Khalil, Lane A, Shah Anwar Colony, Hyderpora, Srinagar, Jammu and Kashmir, 190014, India",
+      "address": {
+        "amenity": "Masjid Khalil",
+        "road": "Lane A, Shah Anwar Colony",
+        "suburb": "Hyderpora",
+        "city": "Srinagar",
+        "state_district": "Srinagar",
+        "state": "Jammu and Kashmir",
+        "ISO3166-2-lvl4": "IN-JK",
+        "postcode": "190014",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "34.0435182",
+        "34.0436793",
+        "74.7831759",
+        "74.7834104"
+      ]
+    }
+  ]
+}

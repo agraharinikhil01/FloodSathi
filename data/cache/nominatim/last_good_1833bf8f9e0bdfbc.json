@@ -1,0 +1,27 @@
+{
+  "timestamp": 1792420072.5996249,
+  "fetched_at": "2026-10-19T14:27:52.599627+00:00",
+  "payload": [
+    {
+      "place_id": 242003002,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 11808052074,
+      "lat": "26.7751208",
+      "lon": "83.0542400",
+      "class": "railway",
+      "type": "station",
+      "place_rank": 30,
+      "importance": 0.3626429788867404,
+      "addresstype": "railway",
+      "name": "Khalilabad",
+      "display_name": "Khalilabad, NH27, Khalilabad, Sant Kabir Nagar, Uttar Pradesh, 272175, India",
+      "boundingbox": [
+        "26.7701208",
+        "26.7801208",
+        "83.0492400",
+        "83.0592400"
+      ]
+    }
+  ]
+}

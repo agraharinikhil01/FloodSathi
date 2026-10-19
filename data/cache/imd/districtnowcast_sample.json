@@ -1,0 +1,22 @@
+[
+  {
+    "district_id": 101,
+    "district_name": "Morigaon",
+    "severity": "Warning",
+    "color": "Red",
+    "level": "severe",
+    "phenomenon": "Intense spells of rain with thunderstorm and river surge",
+    "valid_until": "2026-10-19T21:00:00+05:30",
+    "nowcast_text": "Severe waterlogging and localized flash flood likely over Morigaon within next 3 hours."
+  },
+  {
+    "district_id": 102,
+    "district_name": "Dhubri",
+    "severity": "Alert",
+    "color": "Orange",
+    "level": "high",
+    "phenomenon": "Moderate to heavy rain with squally winds",
+    "valid_until": "2026-10-19T18:00:00+05:30",
+    "nowcast_text": "Moderate rain with gusty winds likely over parts of Dhubri."
+  }
+]

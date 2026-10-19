@@ -1,0 +1,27 @@
+{
+  "timestamp": 1792415846.1958222,
+  "fetched_at": "2026-10-19T13:17:26.195825+00:00",
+  "payload": [
+    {
+      "place_id": 416344738,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 383774533,
+      "lat": "25.6093239",
+      "lon": "85.1235252",
+      "class": "place",
+      "type": "city",
+      "place_rank": 16,
+      "importance": 0.6283141403317186,
+      "addresstype": "city",
+      "name": "Patna",
+      "display_name": "Patna, Patna Rural, Patna, Bihar, India",
+      "boundingbox": [
+        "25.5389546",
+        "25.6510479",
+        "85.0118412",
+        "85.2641902"
+      ]
+    }
+  ]
+}

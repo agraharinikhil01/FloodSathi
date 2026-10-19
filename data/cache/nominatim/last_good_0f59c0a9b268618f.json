@@ -1,0 +1,160 @@
+{
+  "timestamp": 1792419984.759959,
+  "fetched_at": "2026-10-19T14:26:24.759961+00:00",
+  "payload": [
+    {
+      "place_id": 244167264,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 7938533218,
+      "lat": "29.5639016",
+      "lon": "79.7590899",
+      "class": "place",
+      "type": "village",
+      "place_rank": 19,
+      "importance": 0.1467264339665827,
+      "addresstype": "village",
+      "name": "Naura",
+      "display_name": "Naura, Lamgara Tehsil, Almora, Uttarakhand, 263625, India",
+      "address": {
+        "village": "Naura",
+        "county": "Lamgara Tehsil",
+        "state_district": "Almora",
+        "state": "Uttarakhand",
+        "ISO3166-2-lvl4": "IN-UK",
+        "postcode": "263625",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "29.5439016",
+        "29.5839016",
+        "79.7390899",
+        "79.7790899"
+      ]
+    },
+    {
+      "place_id": 243916260,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 13381975383,
+      "lat": "31.1924113",
+      "lon": "76.0493567",
+      "class": "place",
+      "type": "village",
+      "place_rank": 19,
+      "importance": 0.14670666742961772,
+      "addresstype": "village",
+      "name": "Naura",
+      "display_name": "Naura, Nawanshahr Tahsil, Shaheed Bhagat Singh Nagar, Punjab, 144506, India",
+      "address": {
+        "village": "Naura",
+        "county": "Nawanshahr Tahsil",
+        "state_district": "Shaheed Bhagat Singh Nagar",
+        "state": "Punjab",
+        "ISO3166-2-lvl4": "IN-PB",
+        "postcode": "144506",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "31.1724113",
+        "31.2124113",
+        "76.0293567",
+        "76.0693567"
+      ]
+    },
+    {
+      "place_id": 246794643,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 9579448325,
+      "lat": "25.3319512",
+      "lon": "78.8950721",
+      "class": "place",
+      "type": "village",
+      "place_rank": 19,
+      "importance": 0.14670416800183103,
+      "addresstype": "village",
+      "name": "Naura",
+      "display_name": "Naura, Niwari Tahsil, Niwari, Madhya Pradesh, 472447, India",
+      "address": {
+        "village": "Naura",
+        "county": "Niwari Tahsil",
+        "state_district": "Niwari",
+        "state": "Madhya Pradesh",
+        "ISO3166-2-lvl4": "IN-MP",
+        "postcode": "472447",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "25.3119512",
+        "25.3519512",
+        "78.8750721",
+        "78.9150721"
+      ]
+    },
+    {
+      "place_id": 243899236,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 8025580484,
+      "lat": "30.9064777",
+      "lon": "77.5410104",
+      "class": "place",
+      "type": "hamlet",
+      "place_rank": 20,
+      "importance": 0.13337083466849772,
+      "addresstype": "hamlet",
+      "name": "Naura",
+      "display_name": "Naura, Chaupal, Shimla, Himachal Pradesh, India",
+      "address": {
+        "hamlet": "Naura",
+        "county": "Chaupal",
+        "state_district": "Shimla",
+        "state": "Himachal Pradesh",
+        "ISO3166-2-lvl4": "IN-HP",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "30.8864777",
+        "30.9264777",
+        "77.5210104",
+        "77.5610104"
+      ]
+    },
+    {
+      "place_id": 244024756,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 8025580414,
+      "lat": "30.8108686",
+      "lon": "77.5486386",
+      "class": "place",
+      "type": "hamlet",
+      "place_rank": 20,
+      "importance": 0.13336833524071104,
+      "addresstype": "hamlet",
+      "name": "Naura",
+      "display_name": "Naura, Cheta, Shimla, Himachal Pradesh, 171217, India",
+      "address": {
+        "hamlet": "Naura",
+        "county": "Cheta",
+        "state_district": "Shimla",
+        "state": "Himachal Pradesh",
+        "ISO3166-2-lvl4": "IN-HP",
+        "postcode": "171217",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "30.7908686",
+        "30.8308686",
+        "77.5286386",
+        "77.5686386"
+      ]
+    }
+  ]
+}

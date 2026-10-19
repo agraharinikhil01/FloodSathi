@@ -1,0 +1,101 @@
+{
+  "timestamp": 1792419982.7591941,
+  "fetched_at": "2026-10-19T14:26:22.759197+00:00",
+  "payload": [
+    {
+      "place_id": 253252912,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 1093752619,
+      "lat": "11.6391882",
+      "lon": "75.5754514",
+      "class": "railway",
+      "type": "halt",
+      "place_rank": 30,
+      "importance": 0.31620884567581686,
+      "addresstype": "railway",
+      "name": "Nadapuram road",
+      "display_name": "Nadapuram road, Railway Station Road, Puliyerintavide Colony, Orkkatteri, Vadakara, Kozhikode, Kerala, 673102, India",
+      "address": {
+        "railway": "Nadapuram road",
+        "road": "Railway Station Road",
+        "neighbourhood": "Puliyerintavide Colony",
+        "town": "Orkkatteri",
+        "county": "Vadakara",
+        "state_district": "Kozhikode",
+        "state": "Kerala",
+        "ISO3166-2-lvl4": "IN-KL",
+        "postcode": "673102",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "11.6391382",
+        "11.6392382",
+        "75.5754014",
+        "75.5755014"
+      ]
+    },
+    {
+      "place_id": 243694204,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 7979949992,
+      "lat": "30.5350964",
+      "lon": "77.7679896",
+      "class": "place",
+      "type": "hamlet",
+      "place_rank": 20,
+      "importance": 0.13337083466849772,
+      "addresstype": "hamlet",
+      "name": "Nau",
+      "display_name": "Nau, Nagrieta, Paonta Sahib, Sirmaur, Himachal Pradesh, India",
+      "address": {
+        "hamlet": "Nau",
+        "village": "Nagrieta",
+        "county": "Paonta Sahib",
+        "state_district": "Sirmaur",
+        "state": "Himachal Pradesh",
+        "ISO3166-2-lvl4": "IN-HP",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "30.5150964",
+        "30.5550964",
+        "77.7479896",
+        "77.7879896"
+      ]
+    },
+    {
+      "place_id": 243925905,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 8037721770,
+      "lat": "30.7726389",
+      "lon": "77.3719025",
+      "class": "place",
+      "type": "hamlet",
+      "place_rank": 20,
+      "importance": 0.13336833524071104,
+      "addresstype": "hamlet",
+      "name": "nau",
+      "display_name": "nau, Nohra, Sirmaur, Himachal Pradesh, India",
+      "address": {
+        "hamlet": "nau",
+        "county": "Nohra",
+        "state_district": "Sirmaur",
+        "state": "Himachal Pradesh",
+        "ISO3166-2-lvl4": "IN-HP",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "30.7526389",
+        "30.7926389",
+        "77.3519025",
+        "77.3919025"
+      ]
+    }
+  ]
+}

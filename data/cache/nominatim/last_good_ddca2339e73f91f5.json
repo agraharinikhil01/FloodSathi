@@ -1,0 +1,27 @@
+{
+  "timestamp": 1792417284.649832,
+  "fetched_at": "2026-10-19T13:41:24.649834+00:00",
+  "payload": [
+    {
+      "place_id": 243377656,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 287687798,
+      "lat": "25.3356491",
+      "lon": "83.0076292",
+      "class": "place",
+      "type": "city",
+      "place_rank": 16,
+      "importance": 0.6205184179981118,
+      "addresstype": "city",
+      "name": "Varanasi",
+      "display_name": "Varanasi, Sadar, Varanasi, Uttar Pradesh, 221001, India",
+      "boundingbox": [
+        "25.1756491",
+        "25.4956491",
+        "82.8476292",
+        "83.1676292"
+      ]
+    }
+  ]
+}

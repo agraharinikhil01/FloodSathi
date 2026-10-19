@@ -1,0 +1,103 @@
+{
+  "timestamp": 1792419964.6120229,
+  "fetched_at": "2026-10-19T14:26:04.612025+00:00",
+  "payload": [
+    {
+      "place_id": 244602596,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 5734107807,
+      "lat": "29.2738601",
+      "lon": "77.7374607",
+      "class": "railway",
+      "type": "station",
+      "place_rank": 30,
+      "importance": 0.3586565232418998,
+      "addresstype": "railway",
+      "name": "Khatauli",
+      "display_name": "Khatauli, MDR18W, Khatauli, Muzaffarnagar, Uttar Pradesh, 251201, India",
+      "address": {
+        "railway": "Khatauli",
+        "road": "MDR18W",
+        "town": "Khatauli",
+        "county": "Khatauli",
+        "state_district": "Muzaffarnagar",
+        "state": "Uttar Pradesh",
+        "ISO3166-2-lvl4": "IN-UP",
+        "postcode": "251201",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "29.2688601",
+        "29.2788601",
+        "77.7324607",
+        "77.7424607"
+      ]
+    },
+    {
+      "place_id": 213233107,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 7914687213,
+      "lat": "32.6389232",
+      "lon": "76.1607349",
+      "class": "place",
+      "type": "isolated_dwelling",
+      "place_rank": 22,
+      "importance": 0.10670416800183105,
+      "addresstype": "isolated_dwelling",
+      "name": "Kat",
+      "display_name": "Kat, Mihari, Chamba, Himachal Pradesh, 176310, India",
+      "address": {
+        "isolated_dwelling": "Kat",
+        "hamlet": "Mihari",
+        "city": "Chamba",
+        "county": "Chamba",
+        "state_district": "Chamba",
+        "state": "Himachal Pradesh",
+        "ISO3166-2-lvl4": "IN-HP",
+        "postcode": "176310",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "32.6388732",
+        "32.6389732",
+        "76.1606849",
+        "76.1607849"
+      ]
+    },
+    {
+      "place_id": 213044205,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 7928502587,
+      "lat": "33.1270080",
+      "lon": "75.2172089",
+      "class": "place",
+      "type": "isolated_dwelling",
+      "place_rank": 22,
+      "importance": 0.10670166857404438,
+      "addresstype": "isolated_dwelling",
+      "name": "Kat",
+      "display_name": "Kat, Sang, Udhampur, Udhampur district, Jammu and Kashmir, India",
+      "address": {
+        "isolated_dwelling": "Kat",
+        "hamlet": "Sang",
+        "county": "Udhampur",
+        "state_district": "Udhampur district",
+        "state": "Jammu and Kashmir",
+        "ISO3166-2-lvl4": "IN-JK",
+        "country": "India",
+        "country_code": "in"
+      },
+      "boundingbox": [
+        "33.1269580",
+        "33.1270580",
+        "75.2171589",
+        "75.2172589"
+      ]
+    }
+  ]
+}

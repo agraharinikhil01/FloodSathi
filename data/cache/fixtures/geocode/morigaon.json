@@ -1,0 +1,19 @@
+{
+  "results": [
+    {
+      "name": "Morigaon",
+      "display_name": "Morigaon, Morigaon District, Assam, India",
+      "lat": 26.25,
+      "lon": 92.34,
+      "type": "city",
+      "bbox": {
+        "lon1": 92.31,
+        "lat1": 26.23,
+        "lon2": 92.37,
+        "lat2": 26.27
+      },
+      "source": "geoapify",
+      "confidence": "medium"
+    }
+  ]
+}
