@@ -84,11 +84,21 @@ app.include_router(geocode.router, prefix=settings.API_V1_STR)
 @app.get("/api")
 def api_root():
     """API metadata endpoint."""
+    import os
+    import sys
+
+    from backend.app.db import _db_initialized, db_url
+
     return {
         "app": settings.PROJECT_NAME,
         "version": settings.VERSION,
+        "build_id": "2026-10-19-v4-tmp-delete-mode",
         "docs": "/docs",
         "api_v1": settings.API_V1_STR,
+        "resolved_db_url": db_url,
+        "db_initialized": _db_initialized,
+        "platform": sys.platform,
+        "vercel_env": os.getenv("VERCEL_ENV"),
         "disclaimer": "Decision-support tool. Follow official IMD / NDMA warnings.",
     }
 

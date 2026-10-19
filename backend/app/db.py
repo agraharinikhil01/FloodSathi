@@ -2,6 +2,7 @@
 
 import logging
 import os
+import sys
 from typing import Generator
 
 from sqlalchemy import create_engine, event, text
@@ -13,10 +14,31 @@ logger = logging.getLogger(__name__)
 settings = get_settings()
 
 db_url = settings.DATABASE_URL
-if (
-    os.getenv("VERCEL") or os.getenv("AWS_LAMBDA_FUNCTION_NAME") or os.getenv("LAMBDA_TASK_ROOT")
-) and db_url.startswith("sqlite:///."):
-    db_url = "sqlite:////tmp/floodsaathi.db"
+
+
+def _is_dir_writable(path: str = ".") -> bool:
+    """Check if the given directory is writable."""
+    try:
+        test_file = os.path.join(path, ".probe_write_perm.tmp")
+        with open(test_file, "w") as f:
+            f.write("probe")
+        os.remove(test_file)
+        return True
+    except Exception:
+        return False
+
+
+# In serverless runtimes (Vercel, AWS Lambda, Linux containers with read-only roots),
+# relative sqlite URLs (e.g. sqlite:///./floodsaathi.db) fail. Redirect them to /tmp.
+if db_url.startswith("sqlite:///."):
+    if (
+        not _is_dir_writable(".")
+        or os.getenv("VERCEL")
+        or os.getenv("VERCEL_ENV")
+        or os.getenv("AWS_LAMBDA_FUNCTION_NAME")
+        or sys.platform != "win32"
+    ):
+        db_url = "sqlite:////tmp/floodsaathi.db"
 
 connect_args = {"check_same_thread": False} if "sqlite" in db_url else {}
 
@@ -27,7 +49,7 @@ try:
         echo=settings.DEBUG,
         future=True,
     )
-    # Quick probe to ensure engine can connect and write
+    # Quick probe to ensure engine can connect and execute
     with engine.connect() as test_conn:
         test_conn.execute(text("SELECT 1"))
 except Exception as exc:
@@ -42,16 +64,16 @@ except Exception as exc:
         future=True,
     )
 
-# Enable SQLite foreign keys & WAL mode (with fallback if WAL fails in serverless /tmp)
+# Enable SQLite foreign keys & DELETE journal mode (WAL requires shared-memory files that fail in /tmp on lambda)
 if "sqlite" in db_url:
 
     @event.listens_for(engine, "connect")
     def set_sqlite_pragma(dbapi_connection, connection_record):
         cursor = dbapi_connection.cursor()
         try:
-            cursor.execute("PRAGMA journal_mode=WAL")
-        except Exception:
             cursor.execute("PRAGMA journal_mode=DELETE")
+        except Exception:
+            pass
         cursor.execute("PRAGMA foreign_keys=ON")
         cursor.close()
 
@@ -73,6 +95,7 @@ def ensure_db_initialized() -> None:
         Base.metadata.create_all(bind=engine)
         seed_database()
         _db_initialized = True
+        logger.info("Database schema verified and seeded successfully in %s", db_url)
     except Exception as exc:
         logger.warning("Automatic DB initialization/seed warning: %s", exc)
 
